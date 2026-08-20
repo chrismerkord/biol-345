@@ -1,0 +1,243 @@
+---
+title: "Course Syllabus"
+description: "Course description, policies, expectations, grading information, and university policies."
+format:
+  html:
+    toc: true
+    page-layout: full
+  typst:
+    toc: false
+    logo:
+      width: 1cm
+      location: right-bottom
+      padding-right: 1cm
+      padding-bottom: 0.5cm
+      alt: Logo
+sort: 1
+---
+
+BIOL 345 Principles of Ecology and BIOL 345L Ecology Lab — Fall 2026
+
+Updated 2026-08-20
+
+## Instructor
+
+Dr. Chris Merkord, Associate Professor, Department of Biosciences, Minnesota State University Moorhead
+
+See D2L for email contact information, office hours, and meeting scheduling links.
+
+## Course Description
+
+The structure and function of ecological systems. With lab and field work that will emphasize local species and ecosystems.
+
+Prerequisites: none.
+
+Credits: 4
+
+### Class Meetings
+
+#### Lectures
+
+Mondays and Wednesdays 1:30-2:45 PM in Weld Hall 013.
+
+#### Labs
+
+Wednesday 3:00–5:50 PM
+
+Classes meet in Hagen Hall room 410 unless otherwise noted on the class schedule. Field trips depart promptly at the start of class, anyone not there on time will be left.
+
+Field trips travel by university vehicle to the Regional Science Center, located 16 miles east of Moorhead off Hwy 10. The address is 663 164th St S, Glyndon, MN 56547 and directions can be found here: <https://www2.mnstate.edu/science-center/directions.aspx>
+
+### Communicating with the instructor
+
+All email correspondence to course instructors must originate from your university email account, have your full name in the body of the email, and contain the course number “BIOL 345” in the subject line. E-mails not meeting these requirements may not be recognized by the instructor’s email filter and thus may not be answered. The easiest way to meet these requirements is to use the email function in D2L (the envelope icon at the top of the page).
+
+I generally answer messages within 24 hours, Monday through Friday 9 AM-5 PM (except holidays). When other circumstances arise, for example when I am traveling for a conference or travel course, the response time will be longer. Those situations will be announced on D2L ahead of time.
+
+I expect students to check D2L and their university email address once per day.
+
+### Required Texts
+
+- SimUText Ecology, pubished by SimBio (Purchase instructions will be provided in class and on D2L)
+
+### Course Objectives/Student Learning Outcomes
+
+1.  To become familiar with the ecology of Minnesota, including tall grass prairie ecosystems.
+2.  To develop skills necessary for understanding, interpreting, and communicating the results of ecological experiments.
+3.  To gain an overview of current theories of ecology.
+
+### Outline of Major Content Areas
+
+#### Ecological Concepts
+
+- Physiological ecology (evapotranspiration, water potential, adaptation, acclimation, homeostasis, photosynthesis, metabolism)
+- Biogeography (biodiversity, extinction crisis, island biogeography, biomes, speciation, global patterns)
+- Ecosystem ecology (energy flows, production, respiration)
+- Nutrient cycling (water, nitrogen, carbon, human impacts)
+- Decomposition (rates, aerobic vs. anaerobic, litter quality, decomposer organisms)
+- Population ecology (growth models, dispersal, metapopulations)
+- Biotic interactions (predation, herbivory, competition, mutualism)
+- Community dynamics (disturbance, succession, food chains)
+- Behavioral ecology (foraging)
+- Urban ecology
+- Climate change
+
+#### Knowledge and Skills
+
+- Minnesota ecoregions (climate, soil, plant and animal species)
+- Field data collection and data entry
+- Keeping a field notebook
+- Identifying organisms using keys, field guides, and iNaturalist
+- Prairie plant identification and various vegetation assessments
+- Tree identification and various vegetation assessments
+- Fish seining and identification
+- Basic data analysis in R and RStudio
+- Science communication - oral presentation
+
+### Associated Life Science Teaching Goals
+
+**6.A.2.b** : - design a mathematical model to provide a reasonable fit to a given set of data;
+
+**6.B.4.a** : - describe in words, pictures, and diagrams the range of physical, behavioral, and biochemical adaptations that can occur in response to environmental stresses for a given species;
+
+**6.B.5.b** : - perform measurements and statistical analyses to describe the diversity and number of species in a given ecosystem;
+
+**6.B.5.c** : - describe, using words, pictures, and diagrams, the cycling of a given substance among living and nonliving components of the biosphere;
+
+**6.B.5.d** : - describe, using words, pictures, diagrams, and simple mathematical relationships, the cycling of matter and the flow of energy both within a given system, and between the system and the biosphere;
+
+**6.B.5.e** : - explain, using the relationships between biotic and abiotic components of that system, why the population size and diversity of species is different between two different niches, habitats, ecosystems, or biomes;
+
+**6.B.5.f** : - explain and predict, using population growth dynamics and interspecific and intraspecific interactions, changes in population size of organisms in an ecosystem for a given change in the biotic and abiotic components of the ecosystem;
+
+**6.B.5.g** : - design an experiment to investigate relationships within and among species in a simple ecosystem
+
+## Course Policies
+
+### Instructional Strategies
+
+You will be expected to read each chapter of the SimUText Ecology book/software, answer the interactive questions, and take the quizzes [before coming to class]{.underline} (see course schedule for due dates)
+
+Class time will generally consist of chapter discussions and will involve your peers. Be prepared to participate! You don’t have to know everything (or why would you be taking this class?!) but you are encouraged to:
+
+1.  Ask lots of questions and to bring up issues you are thinking and wondering about.
+2.  Listen to the questions and issues brought up by your colleagues.
+
+Labs will involve a combination of hands-on outdoor field-based activities, dry lab activities, and computer lab activities.
+
+### Technology
+
+The following technology will be required in this course:
+
+1.  **D2L.** This is the primary method the instructor will use to communicate announcements to the class, and the method of delivery for quizzes, exams, and discussions in lecture, as well as posting of grades. I suggest you turn on notifications in D2L, and that you install the Pulse app on your phone if you have one, to make receiving notifications easier.
+
+2.  **Email.** MSUM email is the [OFFICIAL communication method for Minnesota State University Moorhead](https://www.mnstate.edu/about/policies-procedures/list/student-email/ "OFFICIAL communication method for Minnesota State University Moorhead"). This is the primary method the instructor will use to contact you with private messages, for example about your assignments or grades.
+
+    For information about your MSUM email including login information, setup on computers and mobile devices, and multi-factor authentication, see this Knowledge Base page: <https://support.mnstate.edu/TDClient/297/Portal/KB/?CategoryID=1198>
+
+3.  SimUText. After purchasing your SimUText access, you will be able to log on to the **SimBio Active Learning System** <https://simbioactivelearning.com/> to read and interact with the curriculum and complete the weekly quizzes. SimUText registration instructions will be posted on D2L by the first day of class.
+
+4.  **Microsoft Office 365.** Office 365 is a collection of Microsoft applications in cloud-based services allowing users to access a catalog of software using any web browser on virtually any device as long as an Internet connection is available. There are no installations, no updates, and nothing required from the user other than logging into the service. Lab experiments and group project assignments will necessitate the use of some of these products such Word, PowerPoint, and Excel for creating and sharing documents. This page has instructions for logging on from any computer including campus computer labs, and for installing Office 365 on your personal device: <https://support.mnstate.edu/TDClient/297/Portal/KB/ArticleDet?ID=4485>
+
+5.  **iNaturalist**. For several of the labs you will use iNaturalist, an online community. Please create an iNaturalist account: <https://www.inaturalist.org/>
+
+    You may also want to install the iNaturalist app on your mobile device. Follow the link above, scroll down to "Download the iNaturalist app", and use the links to the iOS and Android versions.
+
+### Grades and Assessment
+
+Grades will be assigned using an A, B, C, D, F scale based on the percentage of total points earned, as follows:
+
+- A 90–100 %
+- B 80–89.99 %
+- C 70–79.99 %
+- D 60–69.99 %
+- F less than 60 %
+
+Grades for individual quizzes, exams, assignments, etc. will be graded using a minimum grade approach to ensure equitable outcomes for all students. For any assignment, if you earn a grade less than 50%, your grade will be adjusted up to 50%. This applies even if you do not complete an assignment. A 50% is still a failing grade. This approach makes it easier for students to overcome some missing assignments or poor exam scores by grading assignments on a scale more similar to the 4.0 scale used for the course as a whole.
+
+There are four categories of points: exams, comprehension checks, lab activities, and lab project, with percentages assigned as follows:
+
+| Category                           | Points |
+|------------------------------------|--------|
+| SimUText Assignments               | 28     |
+| Class Engagement                   | 10     |
+| Unintended Consequences Assignment | 8      |
+| Seminars                           | 2      |
+| Labs                               | 30     |
+| Midterm Exam                       | 7      |
+| Lab Practical                      | 7      |
+| Final Exam                         | 8      |
+
+SimUText Assignments: For most class periods there will be an assignment to complete before class using your SimUText Ecology. These will be due by Monday at 11:50 pm each week. All assignments will be made available at the beginning of the semester, so you may work ahead if you want to. Late assignments are not accepted. If you anticipate missing any classes, please complete the SimUText assignment early. If you have any issue that prevents you from completing assignments for an extended period, contact your instructor to form a plan.
+
+Each assignment will be worth 10 points per section, so for example an assignment with two sections would be worth 20 points. Of those, half of the points are earned by completing the feedback questions and half are earned by correctly answering the graded questions. Feedback questions are interspersed throughout the chapter. If you provide an answer, even if it is incorrect, you get credit for a feedback question. Be sure not to leave any feedback questions blank, or you will not get credit for that question. Graded questions appear at the end of each section. You earn points for graded questions only if you answer them correctly.
+
+Scores are automatically calculated when you submit your answers, but scores are not released to the student until after the due date (Mondays at 11:50 PM). You may change your answers to any questions up to the due date.
+
+[***Class Engagement.***]{.underline} Many classes will feature interactive activities and discussions. You are expected to attend and participate. The instructor will award points for participation, which can only be earned if you are present in class.
+
+Unintended Consequences.Teams of students (n=3 per team) will give a presentation explaining the interconnectedness of two seemingly unrelated things; they will also identify and explain the ecological concepts necessary for understanding these connections, and will classify the system properties relevant to their example.
+
+Seminars. You must attend at least two seminars outside of class. Each seminar must be related to Ecology and be at least 30 minutes long. Example of seminar series you may attend include the Bioscience Department’s Friday Research Exploration and Education (FREE) every Friday at 3 pm, seminars in other departments or programs (e.g. Sustainability), and seminars at other universities. See the D2L discussion forum for announcements of upcoming seminars. For each seminar, you should submit on D2L a document detailing which presentation you attended and how it related to Ecology. Instructions can be found here: Ecology Seminar Instructions. While you must attend at least two seminars, you may get credit for attending up to four seminars (i.e. you may earn up to 2 points of extra credit).
+
+Field Notebook / Lab Assignments. Each lab will have activities to accomplish, and you should make detailed notes in your lab notebook.  These will be checked for completeness and organization.  You will turn in your lab twice during the semester for grading.
+
+Some labs will have points assigned for completing a report or worksheet. Each lab will receive equal weight when calculating scores for this category.
+
+Midterm Exam.This exam will cover material from both lecture and laboratory.
+
+It may include objective questions in a variety of formats (multiple choice, figure interpretations, numeric calculations, short answer, essay, sketches, and concept maps).  There will be an emphasis on open-ended questions and problem solving opportunities. Long answer questions will be handed out in person the period before the exam so that you may think about how to answer them during the exam. 
+
+*In order to be successful, you must be able to demonstrate comprehension by explaining course concepts in your own words and applying your knowledge to new situations.*
+
+Lab Practical. Details TBD.
+
+Final Exam. This will be like the Midterm Exam. It will not be comprehensive, i.e. it will only cover material from the second half of the course.
+
+\* Please save all returned, graded papers and exams until you receive a final grade in the course.Grades will be posted on D2L so that you can view them during the semester. Please check D2L and let me know as soon as possible if you find errors.  In case of a discrepancy, please let me know so that I can correct any errors.
+
+## University Policies
+
+The following policies are established by MSUM and the Minnesota State system and updated slightly where appropriate to be specific to this course.
+
+### Rules and Expectations of Conduct
+
+Academic Dishonesty. Cheating or plagiarism on any assignment, paper, or exam will result in a grade of zero on that work, and a report to the college administration. A second incidence of cheating will result in a failing grade for the course. See the MSUM student handbook online, <http://www.mnstate.edu/sthandbook/scc/definitions.cfm>, for definitions of cheating and plagiarism. If you aren’t sure about what is permissible, the best thing is to ask.
+
+Examples of plagiarism include: copying text from the internet, a book, or some other source, for example on a writing assignment or exam.
+
+### Attendance Policy
+
+The MSUM Student Absence Policy can be found online at <https://www.mnstate.edu/policies/absences.aspx>
+
+Try not to miss class because we will be doing activities and having discussions most of the time, and these experiences are almost impossible to make up or recreate outside of class.
+
+In the case of extended illnesses or other extreme situations, please schedule a meeting to make special arrangements regarding the following policies.
+
+### Academic Progress Checks
+
+Academic Progress Checks: At weeks 5 and 10 during the semester (earlier if necessary), I will enter point in time course progress into the campus Early Alert System for all students in this class. These progress checks are an opportunity to connect you with a support staff member who can offer additional support and suggest resources if you need assistance. Support staff will reach out to you directly via email, call, or text if there are any concerns.
+
+### Accessibility Statement
+
+Minnesota State University Moorhead (MSUM) is committed to providing equitable access to learning opportunities for all students and strives to make courses inclusive and accessible in accordance with sections 504 and 508 of the 1973 Rehabilitation Act and the Americans with Disabilities Act (ADA). The University will make reasonable accommodations for students with documented disabilities.
+
+Accessibility Resources (AR) is available to facilitate a range of academic support services and accommodations for students with disabilities. If you have a disability, you can request assistance by contacting AR at 218-477-2167 (voice), 218-477-2420 (fax) or [accessibility\@mnstate.edu](mailto:accessibility@mnstate.edu) (email). Once eligibility has been determined, students register with AR every semester to activate their approved accommodations. Although a student may request an accommodation at any time, it is best to initiate the application process at least four weeks before a student wishes to receive an accommodation. Students may begin the accommodation process by submitting a Request for Accommodations form online at <https://www.mnstate.edu/student-life/student-services/accessibility/request-accommodations/form/> or by contacting Accessibility Resources.
+
+The Director of Accessibility Resources, Chuck Eade, serves as MSUM’s ADA Coordinator for students. He can be reached at [Charles.Eade\@mnstate.edu](mailto:Charles.Eade@mnstate.edu). Additional information is available on the AR website: [http://www.mnstate.edu/accessibility](https://nam02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.mnstate.edu%2Faccessibility&data=02%7C01%7Ccharles.eade%40mnstate.edu%7C7497efa1cdcf4b6d50aa08d7cf46ede3%7C5011c7c60ab446ab9ef4fae74a921a7f%7C0%7C0%7C637205775849405764&sdata=TjCP04mSmSEhrAk0ImJqR3sh1B5fJTEKj3hDWT59Wwk%3D&reserved=0).
+
+### Sexual Violence Prevention Statement
+
+Acts of sexual violence are intolerable. MSUM expects all members of the campus community to act in a manner that does not infringe on the rights of others. We are committed to eliminating all acts of sexual violence.
+
+MSUM faculty and staff are concerned about the well-being and development of our students. We are obligated to share information with the MSUM Title IX Coordinator in certain situations to help ensure that the students’ safety and welfare is being addressed, consistent with the requirements of the law. These disclosures include but are not limited to reports of sexual assault, relationship violence, and stalking.
+
+If you have experienced or know someone who has experienced sexual violence, services and resources are available. You may also choose to file a report. For further information, contact Lynn Peterson, Title IX Coordinator, [petrsnly\@mnstate.edu](mailto:petrsnly@mnstate.edu); 218-477-2967, or Ashley Atteberry, Director of Student Conduct & Resolution; [ashley.atteberry\@mnstate.edu](mailto:ashley.atteberry@mnstate.edu), 218-477-2174; both located in Flora Frick 153. Additional information is available at: [www.mnstate.edu/titleix](http://www.mnstate.edu/titleix)
+
+### Bias Incident Statement
+
+A bias incident is an act of bigotry, harassment, or intimidation that is motivated in whole or in part by bias based on an individual’s or group’s actual or perceived race, color, creed, religion, national origin, sex, gender, age, marital status, disability, public assistance status, veteran status, sexual orientation, or familial status. If you are a student who has experienced or witnessed a hate or bias incident, we want to address the incident and provide you with resources. Contact the Campus Diversity Officer, Jered Pigeon, [jered.pigeon\@mnstate.edu](mailto:jered.pigeon@mnstate.edu) 218-477-2047, 114 CMU, or Dean of Students, Kara Gravley-Stack, [kara.gravleystack\@mnstate.edu](mailto:kara.gravleystack@mnstate.edu) 218-477-4222, 153 Flora Frick Hall
+
+### Building Emergency Plan
+
+Building floor plans showing emergency exit routes, fire extinguisher locations and fire alarm pull stations are conspicuously located in classrooms, labs, conference rooms, departmental main offices and residence halls. The Emergency Preparedness Guides (flip style booklets) are located with the maps. Please review the floor plans as well as the guide so you know how to respond in an emergency situation to help protect yourself and others. If you have questions, please contact Ryan Nelson, Director of Public Safety, at [ryan.nelson\@mnstate.edu](mailto:ryan.nelson@mnstate.edu) or 218-477-5869. <https://www.mnstate.edu/publicsafety/>

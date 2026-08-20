@@ -1,0 +1,148 @@
+---
+title: "Class Schedule"
+description: "Daily class schedule including field activities, meeting locations, and assignments."
+format:
+  html:
+    toc: true
+    page-layout: full
+sort: 2
+# IMPORTANT: Keep this document in Source mode.
+# RStudio Visual Editor strips the empty spans used for list-table
+# cell attributes (e.g., []{rowspan=2}), breaking merged cells.
+editor: source
+---
+
+Fall 2026 class schedule.
+
+VERY preliminary at this stage. Subject to change up to course start date.
+
+## Schedule
+
+::: list-table
+- 
+  - Week
+  - Date
+  - Monday Activities
+  - Wednesday Activities
+  - Thursday Lab
+  - SimUText due following Monday \*
+-
+  - 1
+  - Aug 24
+  - Course Intro
+  - SimUText Primer
+    
+    iNaturalist Introduction and Field Demo
+  - Lab 1: Natural History & iNaturalist Collection (FT)
+  - Evolution for Ecology
+
+- 
+  - 2
+  - Sep 2
+  - Evolution for Ecology Review
+  - Unintended Consequences introduction
+    
+    Pick UC teams
+  - Lab 2: Stream ecology (FT) (Be ready to get wet!!)
+  - Physiological Ecology
+- 
+  - 3
+  - Sep 7
+  - []{style="background-color: var(--bs-secondary-bg-subtle)"} Labor Day: No Classes
+  - Physiological Ecology Review
+  - Lab 3
+  - Biogeography
+-
+  - 4
+  - Sep 14
+  - Biogeography Review
+  - TBD
+  - Lab 4
+  - Population Growth
+- 
+  - 5
+  - Sep 21
+  - Population Growth Review
+  - TBD
+  - Lab 5
+  - Life History
+- 
+  - 6
+  - Sep 28
+  - Life History Review
+  - TBD
+  - Lab 6
+  - Review Weeks 1-6
+- 
+  - 7
+  - Oct 5
+  - []{style="background-color: var(--bs-danger-bg-subtle)"} Midterm Exam October 5
+  - TBD
+  - Lab 7
+  - Competition
+- 
+  - []{colspan="6" style="padding: .5em 1em; background-color: var(--bs-success-bg-subtle);"} Saturday, October 10: Bird Banding Demonstration at Regional Science Center (optional)
+- 
+  - 8
+  - Oct 12
+  - []{style="background-color: var(--bs-secondary-bg-subtle)"} Faculty Development Day: No Classes
+  - Student Presentations
+  - Lab 8
+  - Predation, Herbivory, and Parasitism
+- 
+  - 9
+  - Oct 19
+  - Predation, Herbivory, and Parasitism Review
+  - Student Presentations
+  - Lab 9
+  - Community Dynamics
+- 
+  - 10
+  - Oct 26
+  - Community Dynamics Review
+  - Student Presentations
+  - Lab 10
+  - Ecosystem Ecology
+- 
+  - 11
+  - Nov 2
+  - Ecosystem Ecology Review
+  - Student Presentations
+  - Lab 11
+  - Nutrient Cycling
+- 
+  - 12
+  - Nov 9
+  - Nutrient Cycling Review
+  - []{style="background-color: var(--bs-secondary-bg-subtle)"} Veterans Day: No Classes
+  - Lab 12
+  - Climate Change sections 1-3
+- 
+  - 13
+  - Nov 16
+  - Climate Change sections 1-3 Review
+  - Student Presentations
+  - Lab 13
+  - Climate Change sections 4-5
+- 
+  - 14
+  - Nov 23
+  - Climate Change sections 4-5 Review
+  - []{colspan="2" style="background-color: var(--bs-secondary-bg-subtle)"} No classes: Fall Break
+  - 
+- 
+  - 15
+  - Nov 30
+  - Student Presentations
+  - Student Presentations
+  - Lab Practical: iNaturalist Presentations
+  - 
+- 
+  - 16
+  - Dec 7
+  - Student Presentations
+  - Student Presentations
+  - []{style="background-color: var(--bs-secondary-bg-subtle)"} Study Day: No Classes
+  - []{style="background-color: var(--bs-danger-bg-subtle);"} Final Exam: Friday December 11, 9:45 AM
+
+:::

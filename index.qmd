@@ -1,0 +1,54 @@
+---
+title: "BIOL 345 Principles of Ecology"
+listing:
+  id: landing-pages
+  contents:
+    - "syllabus/index.qmd"
+    - "schedule/index.qmd"
+  sort: "sort"
+  type: grid
+  image-placeholder: images/placeholder.png
+---
+
+## Course Overview
+
+The structure and function of ecological systems. With lab and field work that will emphasize local species and ecosystems.
+
+## Course Information
+
+<dl class="course-info">
+
+<dt>Instructor</dt>
+
+<dd>Chris Merkord</dd>
+
+<dt>Institution</dt>
+
+<dd>Minnesota State University Moorhead</dd>
+
+<dt>Term</dt>
+
+<dd>Fall 2026</dd>
+
+<dt>Delivery</dt>
+
+<dd>In-person</dd>
+
+</dl>
+
+## Course Materials
+
+::: {#landing-pages}
+:::
+
+## For Enrolled Students
+
+-   Assignment deadlines and submissions are managed through **D2L**
+
+-   Grades, feedback, and announcements will **not** be posted on this site
+
+-   This site is updated regularly—check links before each class
+
+## Accessibility & Use
+
+All materials on this site are provided for instructional use by enrolled students. If you encounter accessibility issues or broken links, contact the instructor.
