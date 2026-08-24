@@ -1,0 +1,9 @@
+---
+title: "Guides"
+listing:
+  contents:
+    - "simutext/index.qmd"
+  sort: "sort"
+  type: grid
+  image-placeholder: https://visualclassrooms.com/images/about/simbio.png
+---

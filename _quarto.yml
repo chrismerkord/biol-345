@@ -19,6 +19,8 @@ website:
         text: Syllabus
       - href: schedule/index.qmd
         text: Schedule
+      - href: guides/index.qmd
+        text: Guides
       
   sidebar:
     style: "docked"
@@ -29,6 +31,7 @@ website:
         text: Home
       - href: syllabus/index.qmd
       - href: schedule/index.qmd
+      - href: guides/index.qmd
 
 format:
   html:

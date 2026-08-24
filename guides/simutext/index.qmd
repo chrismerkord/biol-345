@@ -1,0 +1,86 @@
+---
+title: "SimUText Guide"
+description: "Registration and usage instructions for SimUText Active Learning System."
+---
+
+## About SimUText
+
+The course materials for BIOL 345 include a selection of interactive chapters and tutorials from **SimUText**, published by SimBio.
+
+SimUText is installed in computer labs on campus. You can also install it on your own computer. SimUText is available for **Windows and macOS**.
+
+To access the SimUText materials for this course, you must first register with SimBio using the **course-specific registration link**.
+
+> **Registration link:** The course-specific SimUText registration link and course key will be posted in an announcement on D2L.
+
+## Registration Instructions
+
+### Choose a payment option
+
+There are two ways to purchase access to SimUText.
+
+#### Option 1: Purchase directly from SimBio
+
+This is the **easiest and least expensive option** for most students.
+
+- Cost: **\$89**
+
+- Purchase is completed online during registration.
+
+- Online payment is required.
+
+#### Option 2: Purchase through the University Bookstore
+
+Use this option if you need to purchase SimUText using **financial aid**.
+
+- Cost: approximately **\$130**
+
+- Purchase a SimUText **voucher code** from the University Bookstore, either online or in person.
+
+- If you purchase online, your voucher code will be sent to you by email.
+
+- You will enter the voucher code instead of a credit card when you register with SimBio.
+
+### Register for SimUText
+
+#### Step 1: Prepare for registration
+
+If purchasing directly from SimBio, have your payment information ready.
+
+If purchasing through the University Bookstore, purchase your SimUText voucher code before beginning registration.
+
+You will also need:
+
+- your MSUM email address
+
+- your Dragon ID
+
+- the **course-specific registration link** posted on D2L
+
+#### Step 2: Register with SimBio
+
+Open the course-specific SimUText registration link provided in the D2L announcement and follow the instructions to create or access your SimBio account.
+
+When prompted, enter your email address and Dragon ID.
+
+If you encounter a problem identifying the correct course, the D2L announcement will also provide the **course-specific SimUText key**.
+
+#### Step 3: Purchase access
+
+When prompted for payment:
+
+- **Direct purchase:** enter your payment information to purchase access from SimBio.
+
+- **Bookstore purchase:** enter the SimUText voucher code you purchased from the University Bookstore.
+
+#### Step 4: Access SimUText
+
+After registering, you can access your assignments through the [SimBio Student Dashboard](https://simbioactivelearning.com/).
+
+To complete SimUText assignments, use a computer with a **keyboard and mouse or trackpad**.
+
+### Getting help
+
+If you have questions about **which purchasing option to use or how SimUText fits into the course**, contact your instructor.
+
+For **registration, installation, account, or technical problems**, visit [SimUText Support](https://simbioactivelearning.zendesk.com/).

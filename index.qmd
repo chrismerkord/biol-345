@@ -5,6 +5,7 @@ listing:
   contents:
     - "syllabus/index.qmd"
     - "schedule/index.qmd"
+    - "guides/index.qmd"
   sort: "sort"
   type: grid
   image-placeholder: images/placeholder.png
