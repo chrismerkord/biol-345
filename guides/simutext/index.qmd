@@ -7,9 +7,9 @@ description: "Registration and usage instructions for SimUText Active Learning S
 
 The course materials for BIOL 345 include a selection of interactive chapters and tutorials from **SimUText**, published by SimBio.
 
-SimUText is installed in computer labs on campus. You can also install it on your own computer. SimUText is available for **Windows and macOS**.
+You can access SimUText through the SimBio Active Learning system using a web browser. You will need a computer that has a mouse and keyboard, and an internet connection. Campus computer labs or personal computers both work well.
 
-To access the SimUText materials for this course, you must first register with SimBio using the **course-specific registration link**.
+To access the SimUText materials for *this* course, you must first register with SimBio using the **course-specific registration link**.
 
 > **Registration link:** The course-specific SimUText registration link and course key will be posted in an announcement on D2L.
 
@@ -17,7 +17,7 @@ To access the SimUText materials for this course, you must first register with S
 
 ### Choose a payment option
 
-There are two ways to purchase access to SimUText.
+There are two ways to purchase access to SimUText: online with a credit card, or through the University Bookstore.
 
 #### Option 1: Purchase directly from SimBio
 
