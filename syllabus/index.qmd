@@ -217,25 +217,25 @@ Extended or serious circumstances that substantially interfere with coursework f
 
 Students with an approved extension will receive an adjusted due date. The new due date will also be the date the student's scores are published and the answers become visible. There is no late-submission window for an extended due date.
 
-##### Class Engagement
+#### Class Engagement
 
 Many classes will feature interactive activities and discussions. You are expected to attend and participate. The instructor will award points for participation, which can only be earned if you are present in class.
 
-##### Unintended Consequences Project.
+#### Unintended Consequences Project.
 
 Teams of students (n=3 per team) will give a presentation explaining the interconnectedness of two seemingly unrelated things; they will also identify and explain the ecological concepts necessary for understanding these connections, and will classify the system properties relevant to their example.
 
-##### Seminars
+#### Seminars
 
 You must attend at least two seminars outside of class. Each seminar must be related to Ecology and be at least 30 minutes long. Example of seminar series you may attend include the Bioscience Department’s Friday Research Exploration and Education (FREE) every Friday at 3 pm, seminars in other departments or programs (e.g. Sustainability), and seminars at other universities. See the D2L discussion forum for announcements of upcoming seminars. For each seminar, you should submit on D2L a document detailing which presentation you attended and how it related to Ecology. Instructions can be found here: Ecology Seminar Instructions. While you must attend at least two seminars, you may get credit for attending up to four seminars (i.e. you may earn up to 2 points of extra credit).
 
-##### Field Notebook / Lab Assignments
+#### Field Notebook / Lab Assignments
 
 Each lab will have activities to accomplish, and you should make detailed notes in your lab notebook. These will be checked for completeness and organization. You will turn in your lab twice during the semester for grading.
 
 Some labs will have points assigned for completing a report or worksheet. Each lab will receive equal weight when calculating scores for this category.
 
-##### Midterm Exam
+#### Midterm Exam
 
 This exam will cover material from both lecture and laboratory.
 
@@ -243,9 +243,9 @@ It may include objective questions in a variety of formats (multiple choice, fig
 
 *In order to be successful, you must be able to demonstrate comprehension by explaining course concepts in your own words and applying your knowledge to new situations.*
 
-##### Lab Practical. Details TBD.
+#### Lab Practical. Details TBD.
 
-##### Final Exam
+#### Final Exam
 
 This will be like the Midterm Exam. It will not be comprehensive, i.e. it will only cover material from the second half of the course.
 
