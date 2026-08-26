@@ -1,10 +1,12 @@
 ---
 title: "Laboratory Assignments"
+image: images/listing.png
 listing:
   contents:
-    - "simutext/index.qmd"
+    - "lab-*/index.qmd"
   sort: "sort"
   type: grid
-  image-placeholder: images/placeholder.png
+  image-placeholder: ../images/placeholder.png
 ---
 
+Weekly laboratory assignments.
