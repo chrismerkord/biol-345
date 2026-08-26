@@ -219,21 +219,159 @@ Students with an approved extension will receive an adjusted due date. The new d
 
 #### Class Engagement
 
-Many classes will feature interactive activities and discussions. You are expected to attend and participate. The instructor will award points for participation, which can only be earned if you are present in class.
+#### Class Engagement
 
-#### Unintended Consequences Project.
+Many class periods will include interactive activities, discussions, demonstrations, polls, problem-solving exercises, or other opportunities to engage with course material. These activities are an important part of the course, and you are expected to attend class prepared to participate.
 
-Teams of students (n=3 per team) will give a presentation explaining the interconnectedness of two seemingly unrelated things; they will also identify and explain the ecological concepts necessary for understanding these connections, and will classify the system properties relevant to their example.
+Class engagement points will be awarded for participating in designated in-class activities. These points are based primarily on participation and engagement rather than whether every response is correct. Simply being present in class does not necessarily earn engagement points; you must participate in the activity as directed.
+
+Class engagement may take a variety of forms, including:
+
+- responding to questions or polls;
+- participating in small-group or class discussions;
+- completing in-class exercises or problem-solving activities;
+- participating in demonstrations or other interactive activities; and
+- providing feedback to your peers on their Unintended Consequences project presentations.
+
+Because these activities depend on what occurs during a particular class period, class engagement points ordinarily cannot be made up outside of class.
+
+To allow for occasional missed classes or activities, the **lowest 10% of your scored class engagement grade items will be dropped** when your final course grade is calculated. This allowance is intended to accommodate occasional circumstances that prevent participation without requiring make-up work.
+
+If a university- or instructor-approved circumstance results in a more substantial disruption that is not adequately addressed by the 10% drop, contact the instructor. Appropriate adjustments will be made so that an approved circumstance does not reduce your course grade.
+
+Class engagement is intended to encourage regular participation in the learning process, not to penalize mistakes or uncertainty. You are encouraged to contribute ideas, ask questions, attempt problems, provide constructive feedback to your peers, and participate in discussions even when you are not certain of the answer.
+
+#### Unintended Consequences Project
+
+Teams of students (n = 3 per team) will develop and give a presentation explaining the interconnectedness of two seemingly unrelated things. Teams will identify and explain the ecological concepts necessary for understanding these connections and classify the system properties relevant to their example. The goal of the project is to demonstrate your ability to apply ecological concepts and systems thinking to connections that may not initially appear obvious.
+
+Each team will choose the specific topic for its project within bounds established by the instructor. This gives teams an opportunity to pursue examples that interest them while ensuring that projects are appropriate for the goals and scope of the assignment. Detailed instructions for selecting a topic, developing the project, and preparing the presentation will be posted separately.
+
+##### Project Components and Grading
+
+The project will be evaluated using a grading rubric posted on D2L. Project points will be awarded for three components:
+
+- **Instructor check-in:** Each team will check in with the instructor in advance of the presentation. At the check-in, the team should be prepared to discuss its topic, preliminary research and analysis, planned approach, and the responsibilities of individual team members. The check-in provides an opportunity to identify problems and receive feedback while there is still time to improve the project.
+- **Presentation document:** Each team will submit the document or other presentation materials used to communicate its analysis. The presentation document will be evaluated according to the criteria provided in the grading rubric.
+- **In-class presentation:** Each team will present its work to the class. All team members are expected to participate meaningfully in the presentation. The presentation will be evaluated according to the criteria provided in the grading rubric.
+
+Specific requirements, deadlines, point values, and the grading rubric will be provided on D2L.
+
+##### Team and Individual Contributions
+
+Although this is a team project, each student is responsible for making a meaningful contribution to the project as a whole. This includes contributing to the research and analysis, preparation and development of the presentation document, and in-class presentation. Participating only in the final presentation does not constitute a complete contribution to the project.
+
+Team members do not need to contribute identical amounts of work or perform identical tasks. Teams may divide responsibilities according to members' skills, interests, and the needs of the project. However, each member is expected to contribute substantively and reliably to the team's work.
+
+The team scores for the project components will normally serve as the starting point for each student's project grade. However, individual grades may be adjusted when there is evidence that a student's contribution was substantially greater or less than the contributions of other team members.
+
+##### Peer Evaluation and Individual Accountability
+
+Following the presentation, students **may be asked to complete a confidential peer evaluation** describing their own contribution and the contributions of the other members of their team. Peer evaluations may address areas such as:
+
+- contribution to research and analysis;
+- contribution to preparation and development of the presentation;
+- reliability and collaboration with the team; and
+- contribution to the in-class presentation.
+
+Peer evaluations provide information to the instructor; students do not assign grades to their teammates. When peer evaluations are used, the instructor may consider them along with observations during the instructor check-in and presentation and other available evidence when determining whether individual grade adjustments are appropriate.
+
+Students who are concerned that a team member is not contributing should contact the instructor **before the project is due**. The instructor check-in is also an opportunity to identify problems with participation or the division of responsibilities while there is still time to address them.
 
 #### Seminars
 
-You must attend at least two seminars outside of class. Each seminar must be related to Ecology and be at least 30 minutes long. Example of seminar series you may attend include the Bioscience Department’s Friday Research Exploration and Education (FREE) every Friday at 3 pm, seminars in other departments or programs (e.g. Sustainability), and seminars at other universities. See the D2L discussion forum for announcements of upcoming seminars. For each seminar, you should submit on D2L a document detailing which presentation you attended and how it related to Ecology. Instructions can be found here: Ecology Seminar Instructions. While you must attend at least two seminars, you may get credit for attending up to four seminars (i.e. you may earn up to 2 points of extra credit).
+You must attend at least two seminars outside of class and submit a reflection for each. Seminars must be at least 30 minutes long and have a substantive connection to ecology.
 
-#### Field Notebook / Lab Assignments
+##### Qualifying Seminars
 
-Each lab will have activities to accomplish, and you should make detailed notes in your lab notebook. These will be checked for completeness and organization. You will turn in your lab twice during the semester for grading.
+Both in-person and live virtual seminars qualify. Examples of seminar opportunities include:
 
-Some labs will have points assigned for completing a report or worksheet. Each lab will receive equal weight when calculating scores for this category.
+- the Bioscience Department's Friday Research Exploration and Education (FREE) seminar series;
+- seminars offered by other departments or programs, such as Sustainability;
+- seminars at other universities or research institutions; and
+- other live presentations with a substantive connection to ecology.
+
+Announcements of upcoming seminar opportunities will be posted as D2L announcements. This list is not exhaustive, and you are encouraged to find other seminars that interest you. If you are unsure whether a seminar will qualify, contact the instructor before attending it for credit.
+
+Prerecorded presentations that you find independently do not qualify. Near the end of the semester, the instructor will provide a list of approved prerecorded seminars for students who have been unable to complete the required number of live seminars. These approved recordings may be used to complete the seminar requirement.
+
+##### Seminar Reflections
+
+For each seminar, you must submit a reflection on D2L identifying the presentation you attended and explaining its connection to ecology. Additional requirements for the reflection are provided in the **Ecology Seminar Instructions** on D2L.
+
+All seminar reflections must be submitted by the seminar assignment deadline posted on D2L near the end of the semester. You do not need to wait until the deadline to submit them.
+
+##### Required Credit and Extra Credit
+
+The first **two qualifying seminars** and their associated reflections are required. You may complete up to two additional seminar assignments for extra credit:
+
+- **Seminars 1–2:** required
+
+- **Seminar 3:** 1 point of extra credit
+
+- **Seminar 4:** 1 additional point of extra credit
+
+Thus, you may receive credit for a maximum of four seminar assignments and earn up to **2 points of extra credit**.
+
+#### Lab Assignments
+
+Labs are an important part of this course and will involve field observations, data collection, group activities, and other applications of ecological concepts and methods. Requirements will vary among labs, and the handout for each lab will identify the activities to complete, what should be recorded in your field notebook, and any additional work that must be submitted. Lab grades will reflect both your participation in the lab and the work you produce.
+
+##### Lab Engagement
+
+Part of each lab score will be based on your **engagement during the lab period**. Engagement will be assessed during lab and includes actively participating in assigned activities, working productively with your group when applicable, following instructions and appropriate procedures, and contributing to the collection, interpretation, or discussion of data and observations.
+
+Simply being present for lab does not necessarily earn full engagement credit. You are expected to participate actively in the work of the lab.
+
+##### Field Notebook
+
+Careful observation and documentation are fundamental skills in field ecology. Your field notebook provides a record of what you did, observed, and measured in the field and allows you to return to those observations later for analysis and interpretation.
+
+You should make a field notebook entry for each field lab. **The handout for each lab will specify what should be recorded in your field notebook for that activity.** Because field activities differ, the specific information required will vary from one lab to another.
+
+Each field notebook entry should include:
+
+- the **date and time** of the field activity;
+
+- the **location** of the activity;
+
+- the **names of your team members**;
+
+- what you did;
+
+- observations made during the field activity;
+
+- measurements and raw data, when appropriate;
+
+- relevant sketches, diagrams, or other visual records, when appropriate; and
+
+- enough context and explanation that you or another reader could understand the record later.
+
+Some labs may use **separate data sheets** for recording particular measurements or datasets rather than requiring all data to be copied into the field notebook. The lab handout will specify when separate data sheets should be used and what information should be recorded in the field notebook.
+
+Your primary observations, measurements, data, and other records should be entered in your field notebook **during the lab while the work is being conducted**. You may add to your entry afterward—for example, by adding calculations, interpretations, identifications, conclusions, or connections to course concepts—but these additions should supplement rather than replace the record you made in the field.
+
+At the end of each field lab, a Learning Assistant or the instructor will briefly check your notebook entry for completion. You will receive a completion score and may receive brief feedback about aspects of your field notes that should be improved in subsequent entries. These checks are intended to help you develop good field-note practices over the course of the semester.
+
+Your complete field notebook will be collected and graded **once, after the final field lab**. This grade will consider the completeness, organization, and quality of your field notebook entries across the field portion of the course.
+
+##### Additional Lab Assignments
+
+Some labs will require an additional product, such as a worksheet, data analysis, report, or other written assignment. Instructions and submission requirements will be provided in the individual lab handout. Not every lab will require an additional assignment.
+
+##### Lab Grades
+
+Points associated with lab work may therefore come from several sources:
+
+- **Lab engagement:** active participation during the lab;
+
+- **Field notebook completion:** a brief check at the end of each field lab;
+
+- **Field notebook grade:** an evaluation of the complete notebook after the final field lab; and
+
+- **Additional lab assignments:** worksheets, analyses, write-ups, reports, or other assigned products when required.
+
+The requirements for each lab will be specified in its lab handout.
 
 #### Midterm Exam
 
