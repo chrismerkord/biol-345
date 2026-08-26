@@ -201,6 +201,8 @@ Look for:
 
 We will use [iNaturalist](https://www.inaturalist.org/) to document some of the organisms we encounter.
 
+Your observations will eventually be included in the [MSUM Ecology 2026](https://www.inaturalist.org/projects/msum-ecology-2026) project on iNaturalist, a collection of all observations from students during the course.
+
 For today's lab, the important thing is to create useful observations. A good iNaturalist observation should include:
 
 - a photograph or other evidence of the organism,
