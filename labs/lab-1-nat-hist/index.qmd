@@ -1,14 +1,7 @@
 ---
 title: "Lab 1: Natural History"
-listing:
-  contents:
-    - "simutext/index.qmd"
-  sort: "sort"
-  type: grid
-  image-placeholder: images/placeholder.png
+sort: 1
 ---
-
-# Lab 1: Natural History
 
 ## Learning outcomes
 
