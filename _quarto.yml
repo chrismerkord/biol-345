@@ -19,6 +19,8 @@ website:
         text: Syllabus
       - href: schedule/index.qmd
         text: Schedule
+      - href: labs/index.qmd
+        text: Labs
       - href: guides/index.qmd
         text: Guides
       
@@ -31,6 +33,7 @@ website:
         text: Home
       - href: syllabus/index.qmd
       - href: schedule/index.qmd
+      - href: labs/index.qmd
       - href: guides/index.qmd
 
 format:
