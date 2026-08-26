@@ -168,33 +168,88 @@ There are four categories of points: exams, comprehension checks, lab activities
 | Lab Practical                      | 7      |
 | Final Exam                         | 8      |
 
-SimUText Assignments: For most class periods there will be an assignment to complete before class using your SimUText Ecology. These will be due by Monday at 11:50 pm each week. All assignments will be made available at the beginning of the semester, so you may work ahead if you want to. Late assignments are not accepted. If you anticipate missing any classes, please complete the SimUText assignment early. If you have any issue that prevents you from completing assignments for an extended period, contact your instructor to form a plan.
+#### SimUText Assignments
 
-Each assignment will be worth 10 points per section, so for example an assignment with two sections would be worth 20 points. Of those, half of the points are earned by completing the feedback questions and half are earned by correctly answering the graded questions. Feedback questions are interspersed throughout the chapter. If you provide an answer, even if it is incorrect, you get credit for a feedback question. Be sure not to leave any feedback questions blank, or you will not get credit for that question. Graded questions appear at the end of each section. You earn points for graded questions only if you answer them correctly.
+For most class periods, there will be an assignment to complete before class using the SimBio Active Learning System, a browser-based interactive textbook and quiz platform. All SimUText assignments will be made available at the beginning of the semester or after the midterm, so you may work ahead if you wish. Due dates and times will also be visible within the SimBio Active Learning System.
 
-Scores are automatically calculated when you submit your answers, but scores are not released to the student until after the due date (Mondays at 11:50 PM). You may change your answers to any questions up to the due date.
+##### Important Dates and Times
 
-[***Class Engagement.***]{.underline} Many classes will feature interactive activities and discussions. You are expected to attend and participate. The instructor will award points for participation, which can only be earned if you are present in class.
+For each SimUText assignment:
 
-Unintended Consequences.Teams of students (n=3 per team) will give a presentation explaining the interconnectedness of two seemingly unrelated things; they will also identify and explain the ecological concepts necessary for understanding these connections, and will classify the system properties relevant to their example.
+- **Sunday at 11:59 PM:** Assignment is due.
+- **After Sunday at 11:59 PM:** The assignment may still be completed with a 20% late penalty on answers submitted after that time. Answers submitted before that time do not receive a penalty.
+- **Start of class on Monday:** The assignment closes and scores become visible. No additional answers may be submitted after this time except by students with approved extended due dates.
+- **End of class on Monday:** Grades become visible.
 
-Seminars. You must attend at least two seminars outside of class. Each seminar must be related to Ecology and be at least 30 minutes long. Example of seminar series you may attend include the Bioscience Department’s Friday Research Exploration and Education (FREE) every Friday at 3 pm, seminars in other departments or programs (e.g. Sustainability), and seminars at other universities. See the D2L discussion forum for announcements of upcoming seminars. For each seminar, you should submit on D2L a document detailing which presentation you attended and how it related to Ecology. Instructions can be found here: Ecology Seminar Instructions. While you must attend at least two seminars, you may get credit for attending up to four seminars (i.e. you may earn up to 2 points of extra credit).
+You may change your answers to any questions until the assignment due date.
 
-Field Notebook / Lab Assignments. Each lab will have activities to accomplish, and you should make detailed notes in your lab notebook.  These will be checked for completeness and organization.  You will turn in your lab twice during the semester for grading.
+##### Scoring
+
+Each assignment is worth a different number of points depending on the number and types of questions it contains.
+
+Feedback questions are interspersed throughout each chapter. You receive credit for a feedback question if you provide an answer, even if your answer is incorrect. Be sure not to leave feedback questions blank, as unanswered feedback questions receive no credit.
+
+Graded questions appear at the end of each section. You receive credit for graded questions only when you answer them correctly.
+
+- Each feedback question is worth **1 point**.
+- Each graded question is worth **2 points**.
+- On average, approximately **two-thirds of the available points** come from feedback questions and **one-third** from graded questions, but this varies by chapter.
+
+Scores are calculated automatically based on your submitted answers but are not visible until the start of the class in which the assignment will be discussed. Grades become visible at the end of class.
+
+##### Late Work
+
+SimUText assignments are due at **11:59 PM on the Sunday before the class in which the assignment will be discussed**. Because all assignments are available well in advance, students are expected to plan ahead and complete assignments by the posted deadline.
+
+Assignments submitted after the Sunday 11:59 PM deadline but before the start of class receive a **20% late penalty**. At the start of class, the assignment closes and scores become visible. No additional responses may be submitted after that time unless the student has an approved extension.
+
+##### Extensions
+
+Extensions are intended for circumstances that substantially interfere with a student's ability to complete coursework, rather than routine scheduling difficulties.
+
+A qualifying circumstance is a university- or instructor-approved activity, condition, or situation that substantially interferes with a student's ability to complete coursework. When a qualifying circumstance affects a student during the seven calendar days preceding the assignment deadline, the deadline will normally be extended by one calendar day for each day affected.
+
+Students should email the instructor to request an extension as soon as reasonably possible.
+
+Circumstances known well in advance generally do not warrant an extension because SimUText assignments are available well in advance and can be completed early. Students should plan to complete assignments before anticipated conflicts. Similarly, ordinary scheduling pressures—such as having a busy week, multiple exams or assignments, employment obligations, or other foreseeable demands—do not normally qualify for an extension.
+
+Extended or serious circumstances that substantially interfere with coursework for a longer period will be considered individually and handled in accordance with applicable university policies.
+
+Students with an approved extension will receive an adjusted due date. The new due date will also be the date the student's scores are published and the answers become visible. There is no late-submission window for an extended due date.
+
+##### Class Engagement
+
+Many classes will feature interactive activities and discussions. You are expected to attend and participate. The instructor will award points for participation, which can only be earned if you are present in class.
+
+##### Unintended Consequences Project.
+
+Teams of students (n=3 per team) will give a presentation explaining the interconnectedness of two seemingly unrelated things; they will also identify and explain the ecological concepts necessary for understanding these connections, and will classify the system properties relevant to their example.
+
+##### Seminars
+
+You must attend at least two seminars outside of class. Each seminar must be related to Ecology and be at least 30 minutes long. Example of seminar series you may attend include the Bioscience Department’s Friday Research Exploration and Education (FREE) every Friday at 3 pm, seminars in other departments or programs (e.g. Sustainability), and seminars at other universities. See the D2L discussion forum for announcements of upcoming seminars. For each seminar, you should submit on D2L a document detailing which presentation you attended and how it related to Ecology. Instructions can be found here: Ecology Seminar Instructions. While you must attend at least two seminars, you may get credit for attending up to four seminars (i.e. you may earn up to 2 points of extra credit).
+
+##### Field Notebook / Lab Assignments
+
+Each lab will have activities to accomplish, and you should make detailed notes in your lab notebook. These will be checked for completeness and organization. You will turn in your lab twice during the semester for grading.
 
 Some labs will have points assigned for completing a report or worksheet. Each lab will receive equal weight when calculating scores for this category.
 
-Midterm Exam.This exam will cover material from both lecture and laboratory.
+##### Midterm Exam
 
-It may include objective questions in a variety of formats (multiple choice, figure interpretations, numeric calculations, short answer, essay, sketches, and concept maps).  There will be an emphasis on open-ended questions and problem solving opportunities. Long answer questions will be handed out in person the period before the exam so that you may think about how to answer them during the exam. 
+This exam will cover material from both lecture and laboratory.
+
+It may include objective questions in a variety of formats (multiple choice, figure interpretations, numeric calculations, short answer, essay, sketches, and concept maps). There will be an emphasis on open-ended questions and problem solving opportunities. Long answer questions will be handed out in person the period before the exam so that you may think about how to answer them during the exam.
 
 *In order to be successful, you must be able to demonstrate comprehension by explaining course concepts in your own words and applying your knowledge to new situations.*
 
-Lab Practical. Details TBD.
+##### Lab Practical. Details TBD.
 
-Final Exam. This will be like the Midterm Exam. It will not be comprehensive, i.e. it will only cover material from the second half of the course.
+##### Final Exam
 
-\* Please save all returned, graded papers and exams until you receive a final grade in the course.Grades will be posted on D2L so that you can view them during the semester. Please check D2L and let me know as soon as possible if you find errors.  In case of a discrepancy, please let me know so that I can correct any errors.
+This will be like the Midterm Exam. It will not be comprehensive, i.e. it will only cover material from the second half of the course.
+
+\* Please save all returned, graded papers and exams until you receive a final grade in the course.Grades will be posted on D2L so that you can view them during the semester. Please check D2L and let me know as soon as possible if you find errors. In case of a discrepancy, please let me know so that I can correct any errors.
 
 ## University Policies
 
