@@ -1,0 +1,10 @@
+---
+title: "Laboratory Assignments"
+listing:
+  contents:
+    - "simutext/index.qmd"
+  sort: "sort"
+  type: grid
+  image-placeholder: images/placeholder.png
+---
+

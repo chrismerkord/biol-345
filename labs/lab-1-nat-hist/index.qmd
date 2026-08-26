@@ -1,0 +1,235 @@
+---
+title: "Lab 1: Natural History"
+listing:
+  contents:
+    - "simutext/index.qmd"
+  sort: "sort"
+  type: grid
+  image-placeholder: images/placeholder.png
+---
+
+# Lab 1: Natural History
+
+## Learning outcomes
+
+By the end of this lab, you should be able to:
+
+- Explain what natural history is and how natural-history observations contribute to ecology.
+- Observe organisms carefully and record useful field notes.
+- Distinguish information captured by photographs from information that should be recorded in field notes.
+- Document biological observations using iNaturalist.
+- Generate ecological questions from natural-history observations.
+
+## What is natural history?
+
+Natural history is the study of organisms—including plants, animals, fungi, and other living things—in their environments. Natural history relies heavily on careful observation: noticing what organisms look like, where they occur, what they are doing, and how they interact with their surroundings.
+
+Natural-history observations have long provided much of the foundation for ecology. Before we can explain ecological patterns or design experiments to test ecological hypotheses, someone first has to notice that something interesting is happening.
+
+A person who studies natural history is called a *naturalist*, although John C. Nichols (1991) put it a bit more eloquently:
+
+> ...a naturalist is a person whose curiosity is boundless. He or she is interested in kinkajous and sticklebacks, in astronomy, French wine, magpies, baseball, prairie rattlesnakes, quantum mechanics, corn on the cob, great sperm whales, and even Bolsheviks and hummingbirds. A naturalist is a person who tries to delight in everything, is in love with the whole of life, and hopes to walk in harmony across the earth.
+
+In this lab, you will practice being a naturalist. Your job is not simply to find organisms or identify species. Your job is to **slow down, look closely, notice things, document what you see, and ask questions about it.**
+
+## Before lab
+
+### Bring
+
+- Field clothes suitable for walking through tall, damp grass and brush.
+- Your field notebook.
+- A camera, smartphone, tablet, or other device with a camera.
+- Optional: the iNaturalist app installed on your device.
+
+If you do not have a device with a camera, you may share one with another student during the lab.
+
+## Field activity
+
+Work in pairs or small groups to explore the area around the Interpretive Center at the MSUM Regional Science Center. **Do not go alone.**
+
+Move slowly and look closely for organisms and evidence of organisms. You do not need to stay on a trail. Try changing the scale at which you look: scan the landscape, examine individual plants, kneel down to inspect the ground, look underneath leaves, and investigate logs, rocks, bark, flowers, and other small habitats.
+
+Focus primarily on **wild organisms rather than cultivated plants**.
+
+You are required to make **at least five observations**, but you are encouraged to make as many additional observations as you want.
+
+An observation does not have to involve a species you can identify. In fact, finding something unfamiliar is often a good starting point for natural history.
+
+Your five required observations also do not need to represent five completely different kinds of organisms. Spending several minutes carefully watching one organism, comparing several individuals, or investigating an interesting ecological pattern can be more useful than rushing from one organism to another.
+
+## Set up your field notebook
+
+Before you begin exploring, start a new entry in your field notebook. Your notebook should provide enough context that you could return to it months or years later and understand **where you were, what you were doing, and who you were with**.
+
+At the top of your entry, record:
+
+- **Date**
+- **Start time**
+- **Location:** MSUM Regional Science Center, approximately 15 miles east of Moorhead, Minnesota
+- **Activity:** BIOL 345 Ecology — Natural History Lab
+- **What you are doing:** Write one or two sentences briefly describing today's activity in your own words.
+- **Who you are with:** Record the names of the student(s) you are exploring with.
+- **Weather and general conditions:** Briefly note conditions that could affect what you observe, such as temperature, cloud cover, wind, or recent rain.
+
+### Location
+
+Today's lab takes place around the Interpretive Center at the **MSUM Regional Science Center (RSC)**. In your notebook, write:
+
+> MSUM Regional Science Center, approximately 15 miles east of Moorhead, Minnesota
+
+Then add a **small sketch map** showing the general area you will explore. Your map does not need to be detailed or artistic. Its purpose is to provide spatial context for your observations.
+
+Include:
+
+- the Interpretive Center,
+- the main trails or other major features shown on the map,
+- the general area you will explore,
+- a north arrow,
+- and any landmarks that will help you describe where individual observations were made.
+
+> **\[INSERT SMALL SIMPLIFIED RSC MAP HERE\]**
+
+As you explore, you can refer back to this map when recording the locations of individual observations. You may also add marks or numbers to the map showing where particularly interesting observations were made.
+
+## Your field observations
+
+After setting up your field notebook, make detailed entries for **at least five observations**.
+
+For each observation, record:
+
+- **Time**
+- **Specific location** — describe where you encountered it relative to the Interpretive Center, trail, habitat, or another recognizable feature
+- **Organism or tentative identification** — use a general description if you do not know its name
+- **Description** — size, shape, color, texture, structures, or other useful characteristics
+- **Habitat or surroundings** — where was it, and what was around it?
+- **What it was doing** — feeding, flying, flowering, hiding, calling, growing on something, interacting with another organism, etc.
+- **Something your photograph does not capture** — movement, sound, smell, texture, abundance, behavior, or another observation
+- **A question** — something you wonder about because of this observation
+
+Whenever useful, include a **quick sketch**. The purpose is not to make art. A sketch can efficiently document structures, spatial relationships, behavior, or other features that may be difficult to describe in words.
+
+### Example field note
+
+A field note such as
+
+> Yellow flower beside trail.
+
+does not tell you very much.
+
+A more useful entry might be:
+
+> **10:18 AM.** Edge of mowed trail near prairie. Yellow-flowered plant about knee-high, with several individuals scattered through taller grass. Leaves narrow and rough to the touch. One small bee visited several flowers while I watched. Most individuals seem to be close to the trail rather than farther into the prairie. **Why might this plant be more common along the trail edge?**
+
+Notice that the field note records more than an identification. It preserves observations that could later lead to an ecological question.
+
+## Photographing your observations
+
+Take photographs that document each organism well enough that you—or someone else—could examine it later.
+
+Whenever possible:
+
+- Get close enough that the organism fills much of the frame.
+- Take more than one photograph when different views show useful information.
+- Check that your subject is actually in focus.
+- Photograph features that may help with identification.
+
+For plants, for example, useful photographs might include:
+
+- the whole plant,
+- leaves and stem,
+- flowers or fruits,
+- the base of the plant,
+- and close-up views of important structures.
+
+Different organisms will require different kinds of photographs. Think about what features another naturalist would need to see.
+
+## Ideas for what to look for
+
+You **do not need to find everything on this list**. These are simply prompts to help you slow down, look closely, and notice things you might otherwise overlook.
+
+### Organisms
+
+Look for:
+
+- a fungus
+- a lichen
+- a tree
+- a shrub
+- a grass
+- a flower
+- a bee or wasp
+- a grasshopper, cricket, or katydid
+- a butterfly or moth
+- a beetle
+- a spider
+- a bird
+- a mammal
+- a reptile or amphibian
+- something tiny
+- something surprisingly large
+
+### Interactions
+
+Look for:
+
+- something feeding
+- something visiting a flower
+- something living on another organism
+- evidence that an organism has been eaten
+- evidence left behind by an organism
+- two organisms interacting
+- an organism using another organism as shelter or habitat
+
+### Patterns
+
+Look for:
+
+- many individuals of the same kind together
+- an organism associated with a particular microhabitat
+- something especially common
+- something apparently rare
+- a difference between two nearby habitats
+- a pattern in where organisms occur
+
+### Curiosities
+
+Look for:
+
+- something you do not recognize
+- something surprising
+- something you initially overlooked
+- something creepy
+- something fast
+- something unusually colorful
+- something that makes you wonder **why?**
+- something that makes you want to know more
+
+## Using iNaturalist
+
+We will use [iNaturalist](https://www.inaturalist.org/) to document some of the organisms we encounter.
+
+For today's lab, the important thing is to create useful observations. A good iNaturalist observation should include:
+
+- a photograph or other evidence of the organism,
+- the correct date and time,
+- the correct location,
+- and at least a broad identification when possible.
+
+You do **not** need to know the species before submitting an observation. If you are uncertain, identify it only as specifically as you can confidently justify—for example, as a plant, animal, fungus, bird, insect, or other broad group.
+
+Other iNaturalist users may later help refine the identification.
+
+## Before you leave the field
+
+Before returning to the Interpretive Center, make sure that you have:
+
+- at least **five documented observations**,
+- photographs associated with those observations,
+- a complete field-notebook entry for each,
+- and at least **one question generated by each observation**.
+
+Take a final look around before you leave. Try to notice one organism, interaction, or pattern that you did not notice when you first arrived.
+
+## Reference
+
+Nichols, J. C. 1991. ASIH keynote address: What is a naturalist, anyway? *Copeia* 1991:1176–1181.
