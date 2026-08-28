@@ -3,6 +3,18 @@ title: "Lab 1: Natural History"
 description: Practice observing and documenting wild organisms while developing field-note, iNaturalist, and ecological inquiry skills.
 image: images/listing.png
 sort: 1
+format:
+  html:
+    toc: true
+    page-layout: full
+  typst:
+    toc: false
+    logo:
+      width: 1cm
+      location: right-bottom
+      padding-right: 1cm
+      padding-bottom: 0.5cm
+      alt: Logo
 ---
 
 ## Learning outcomes
