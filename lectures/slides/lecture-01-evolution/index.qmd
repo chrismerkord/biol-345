@@ -1,0 +1,108 @@
+---
+title: "Lecture 1: Evolution"
+sort: 1
+---
+
+# Overview
+
+## Evolution and Ecology Are Intertwined
+
+::::: columns
+::: {.column width="50%"}
+- [Evolution]{.keyword} is change in the genetic composition of a [population]{.keyword} across [generations]{.keyword}.
+- [Ecology]{.keyword} is the study of the interactions between organisms and their environment
+- Ecological processes can drive evolutionary change.
+:::
+
+::: {.column width="50%"}
+- Evolution can occur rapidly enough to alter ecological interactions.
+- Predation, herbivory, and environmental change can all act as evolutionary forces.
+:::
+:::::
+
+## Natural Selection: Three Requirements
+
+::::: columns
+::: {.column width="50%"}
+Evolution by [natural selection]{.keyword} requires:
+
+1.  Individuals vary
+2.  Some variation is [heritable]{.keyword}
+3.  Survival and reproduction are selective
+:::
+
+::: {.column width="50%"}
+- When these conditions are met, *populations change across generations*
+- Traits associated with greater [fitness]{.keyword} become more common
+:::
+:::::
+
+## Individuals Are Selected; Populations Evolve
+
+::::: columns
+::: {.column width="50%"}
+- Individual organisms do not evolve because they "need" to change
+- Natural selection acts on existing variation among individuals
+:::
+
+::: {.column width="50%"}
+- Individuals differ in survival and reproduction
+- The resulting change occurs at the level of the [population]{.keyword} across generations
+:::
+:::::
+
+## Evolution as Change in Allele Frequencies
+
+::::: columns
+::: {.column width="50%"}
+- A [gene]{.keyword} can occur in different forms called [alleles]{.keyword}
+- An individual's [genotype]{.keyword} contributes to its [phenotype]{.keyword}
+:::
+
+::: {.column width="50%"}
+- Evolution can be defined precisely as change in [allele frequency]{.keyword} across generations
+- Alleles associated with greater fitness tend to increase under natural selection
+:::
+:::::
+
+## Four Mechanisms of Evolution
+
+::::: columns
+::: {.column width="50%"}
+- [Natural selection]{.keyword}: differential survival and reproduction
+- [Genetic drift]{.keyword}: random changes in allele frequencies
+:::
+
+::: {.column width="50%"}
+- [Migration]{.keyword}: movement of alleles among populations
+- [Mutation]{.keyword}: origin of new genetic variation
+:::
+:::::
+
+## Evolution Depends on Ecological Context
+
+::::: columns
+::: {.column width="50%"}
+- The fitness consequences of a trait depend on the environment.
+- An [.adaptation]{.keyword} increases fitness under particular ecological conditions.
+:::
+
+::: {.column width="50%"}
+- [.Trade-offs]{.keyword} mean that a trait can be beneficial in one context but costly in another.
+- This can produce [.local adaptation]{.keyword} among populations.
+:::
+:::::
+
+## Evolution Is Something We Can Manage
+
+::::: columns
+::: {.column width="50%"}
+- Pesticides and antibiotics impose strong natural selection
+- Resistant individuals can survive and reproduce while susceptible individuals are removed
+:::
+
+::: {.column width="50%"}
+- Management can alter the strength and direction of selection
+- For example, refuges can preserve susceptible genotypes and slow the evolution of resistance
+:::
+:::::

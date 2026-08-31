@@ -3,10 +3,10 @@ title: "Lectures"
 image: images/listing.png
 listing:
   contents:
-    - "lecture-*/index.qmd"
+    - "slides/lecture-*/index.qmd"
   sort: "sort"
   type: grid
   image-placeholder: ../images/placeholder.png
 ---
 
-Weekly laboratory assignments.
+Weekly lectures.
