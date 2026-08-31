@@ -181,7 +181,7 @@ Evolution by [natural selection]{.keyword} requires:
 ::: {.column width="55%"}
 - Evolution does not require thousands or millions of years.
 - The relevant timescale is **generations**, not simply years.
-- When there is heritable variation and strong differences in [.fitness]{.keyword}, [.allele frequencies]{.keyword} can change rapidly.
+- When there is heritable variation and strong differences in [fitness]{.keyword}, [allele frequencies]{.keyword} can change rapidly.
 - Short generation times and strong selection can make evolutionary change especially fast.
 
 ### How do we know?
@@ -190,7 +190,7 @@ Scientists can measure traits, genotypes, or allele frequencies in a population 
 :::
 
 ::: {.column width="45%"}
-![Change in stickleback phenotype over generations. Kitano et al. 2008](images/clipboard-3898115376.png)
+![Lake Washington sticklebacks evolved fewer armor plates as low-plated Eda alleles increased in frequency. Source: [Yamasaki et al. 2025, *Evolution*](https://academic.oup.com/evolut/article/80/3/631/8381222).](images/yamasaki-2026-stickleback-evolution.png){fig-alt="Graphs showing changes in armor plate number, plate morph frequencies, and Eda allele frequencies in Lake Washington threespine sticklebacks over time."}
 :::
 :::::
 
@@ -209,26 +209,32 @@ These mechanisms are **not mutually exclusive**. The allele frequencies we obser
 :::
 
 ::: {.column width="45%"}
-![*Gasterosteus williamsoni* (Unarmored Threespine Stickleback). iNaturalist Photo 332977675, (c) jqrichmond, some rights reserved (CC BY-NC), uploaded by jqrichmond](images/clipboard-2398104758.png)
+![*Gasterosteus williamsoni* (Unarmored Threespine Stickleback). Image: [jqrichmond, iNaturalist](https://www.inaturalist.org/photos/332977675), [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/).](images/gasterosteus-williamsoni.png)
 :::
 :::::
 
 ## How Does Gene Flow Affect Natural Selection?
 
+- [Gene flow]{.keyword} moves alleles among populations.
+- [Natural selection]{.keyword} changes allele frequencies based on differences in fitness.
+- Gene flow can **introduce alleles that selection favors or removes**.
+- Therefore, gene flow can **reinforce or oppose** the effects of natural selection.
+
+## Example: Gene Flow Can Oppose Local Adaptation
+
 ::::: columns
-::: {.column width="55%"}
-- [Gene flow]{.keyword} occurs when migration moves alleles among populations
-- Migrants can introduce alleles that natural selection favors—or alleles that selection acts against
-- Continued gene flow tends to make connected populations **more genetically similar**
+::: {.column width="50%"}
+- *Timema cristinae* occurs as **striped and unstriped morphs**
+- Striped insects are better camouflaged on *Adenostoma*; unstriped insects on *Ceanothus*
+- Natural selection therefore favors different morphs on the two hosts.
 
-### The key distinction
-
-**Gene flow describes movement of alleles. Natural selection describes differences in fitness.**
-
-Both can change allele frequencies at the same time.
+![Caption: Striped and unstriped *Timema cristinae* and their respective host plants. Source: [Farkas et al. 2013 Curr Biol](https://doi.org/10.1016/j.cub.2013.07.067).](images/farkas-2013-timema-morphs-hosts.jpg){width="70%"}
 :::
 
-::: {.column width="45%"}
+::: {.column width="50%"}
+- Selection removes poorly camouflaged morphs, while gene flow keeps bringing their alleles back in.
+
+![Maladaptive color morphs are more frequent in populations experiencing gene flow. Source: [Bolnik & Nosil 2007, *Evolution*](https://doi.org/10.1111/j.1558-5646.2007.00179.x).](images/bolnick-nosil-2007-gene-flow-maladaptive-morphs.gif){fig-alt="Graph showing a low frequency of maladaptive color morphs in isolated allopatric Timema cristinae populations and a higher frequency in adjacent parapatric populations experiencing gene flow." width="70%"}
 :::
 :::::
 
@@ -236,19 +242,19 @@ Both can change allele frequencies at the same time.
 
 ::::: columns
 ::: {.column width="55%"}
-- [.Heritable]{.keyword} variation is variation that is at least partly caused by genetic differences among individuals.
-- Similarity between parents and offspring alone does **not** prove that a trait is heritable—parents and offspring can also share environments.
-- Biologists can use breeding experiments, genetic data, and other methods to separate genetic from environmental effects.
+- [Heritable]{.keyword} variation is variation that is at least partly caused by genetic differences among individuals
+- Similarity between parents and offspring alone does **not** prove that a trait is heritable—parents and offspring can also share environments
+- Biologists can use breeding experiments, genetic data, and other methods to separate genetic from environmental effects
 
 ### Why it matters
 
-Natural selection can produce evolutionary change only when differences affecting fitness are **heritable**.
+Natural selection can produce evolutionary change only when differences affecting fitness are **heritable**
 :::
 
 ::: {.column width="45%"}
-![](images/clipboard-1611699275.png)
+![](images/hansonn-2016-parent-offspring-association.png)
 
-Offpring phenotype is related to parent phenotype. [Hansonn et al. 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4829041/).
+Offpring phenotype is related to parent phenotype. Source: [Hansonn et al. 2016, *Ecol Evol*](https://pmc.ncbi.nlm.nih.gov/articles/PMC4829041/).
 :::
 :::::
 
@@ -268,7 +274,7 @@ Offpring phenotype is related to parent phenotype. [Hansonn et al. 2016](https:/
 :::
 
 ::: {.column width="45%"}
-![Subfigures D and E show phenotypic change and genotypic change across over time (across generations). [Yamasaki et al. 2025 Evolution](https://academic.oup.com/evolut/article/80/3/631/8381222).](images/clipboard-739969060.png)
+![Lake Washington sticklebacks evolved fewer armor plates as low-plated Eda alleles increased in frequency. Source: [Yamasaki et al. 2025, *Evolution*](https://academic.oup.com/evolut/article/80/3/631/8381222).](images/yamasaki-2026-stickleback-evolution.png){fig-alt="Graphs showing changes in armor plate number, plate morph frequencies, and Eda allele frequencies in Lake Washington threespine sticklebacks over time."}
 :::
 :::::
 
@@ -290,6 +296,6 @@ For example, a **refuge** allows susceptible individuals to survive and reproduc
 :::
 
 ::: {.column width="45%"}
-![Pink bollworm resistance to Bt cotton remained rare in Arizona despite widespread Bt cotton use ([Tabashnik et al. 2005](https://pmc.ncbi.nlm.nih.gov/articles/PMC7817146/)).](images/clipboard-209257233.png)
+![Pink bollworm resistance to Bt cotton remained rare in Arizona despite widespread Bt cotton use. Source: [Tabashnik et al. 2005, *Proc Natl Acad Sci U S A*](https://pmc.ncbi.nlm.nih.gov/articles/PMC7817146/).](images/tabashnik-2005-management-strategies.png)
 :::
 :::::
