@@ -175,18 +175,47 @@ Evolution by [natural selection]{.keyword} requires:
 :::
 :::::
 
+## What Is an Allele?
+
+::::: columns
+::: {.column width="50%"}
+- A [gene]{.keyword} is a region of DNA with a particular function
+- An [allele]{.keyword} is a **version of a gene**
+- In diploid organisms, individuals usually carry **two copies of each gene**—one from each parent
+- The two copies may contain the **same or different alleles**
+
+**An individual's combination of alleles is its [genotype]{.keyword}.**
+:::
+
+::: {.column width="50%"}
+![Two copies of the stickleback Eda gene can carry different alleles.](images/eda-gene-alleles-stickleback.png.png){fig-alt="Diagram of a threespine stickleback, a pair of homologous chromosomes, and the Eda gene. The gene occurs at the same position on both chromosomes, with one copy carrying the complete-plating allele and the other the low-plating allele."}
+:::
+:::::
+
+## From Allele Frequencies to Evolution
+
+::::: columns
+::: {.column width="55%"}
+- Individuals **carry alleles**
+- Populations have [allele frequencies]{.keyword}: the proportion of gene copies carrying each allele
+- Scientists can estimate allele frequencies **across generations**
+
+**Evolution is a change in allele frequencies across generations.**
+:::
+
+::: {.column width="45%"}
+![Lake Washington sticklebacks evolved fewer armor plates as low-plated Eda alleles increased in frequency. Source: Yamasaki et al. 2025, Evolution.](images/yamasaki-2026-stickleback-evolution.png){fig-alt="Graphs showing changes in armor plate number, plate morph frequencies, and Eda allele frequencies in Lake Washington threespine sticklebacks over time."}
+:::
+:::::
+
 ## How Fast Can Evolution Happen?
 
 ::::: columns
 ::: {.column width="55%"}
-- Evolution does not require thousands or millions of years.
-- The relevant timescale is **generations**, not simply years.
-- When there is heritable variation and strong differences in [fitness]{.keyword}, [allele frequencies]{.keyword} can change rapidly.
-- Short generation times and strong selection can make evolutionary change especially fast.
-
-### How do we know?
-
-Scientists can measure traits, genotypes, or allele frequencies in a population at different points in time and test whether they have changed across generations.
+- Evolution does **not** require thousands or millions of years
+- The relevant timescale for evolution is **generations**, not simply years
+- Allele frequencies can change as populations reproduce through successive generations
+- With strong selection, substantial evolutionary change can occur in **relatively few generations**
 :::
 
 ::: {.column width="45%"}
@@ -200,25 +229,37 @@ Scientists can measure traits, genotypes, or allele frequencies in a population 
 ::: {.column width="55%"}
 A population can experience several mechanisms of evolution simultaneously:
 
-- [Natural selection]{.keyword} — alleles differ in their effects on survival and reproduction
-- [Genetic drift]{.keyword} — chance changes which alleles are passed on
-- [Migration]{.keyword} — individuals bring alleles into or out of a population
-- [Mutation]{.keyword} — new alleles arise
+- [Mutation]{.keyword} can introduce a new allele
+- [Migration]{.keyword} can move alleles between populations
+- [Genetic drift]{.keyword} can change allele frequencies by chance
+- [Natural selection]{.keyword} can favor some alleles over others
 
-These mechanisms are **not mutually exclusive**. The allele frequencies we observe reflect their combined effects.
+**All of these processes can affect the same population at the same time.**
+
+The allele frequencies we observe reflect their **combined effects**.
 :::
 
 ::: {.column width="45%"}
-![*Gasterosteus williamsoni* (Unarmored Threespine Stickleback). Image: [jqrichmond, iNaturalist](https://www.inaturalist.org/photos/332977675), [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/).](images/gasterosteus-williamsoni.png)
+Example: a beneficial allele might be favored by selection, while migration brings in an alternative allele and drift causes random fluctuations in both.
+
+[![Multiple mechanisms of evolution can affect allele frequencies in the same population at the same time.](images/multiple-mechanisms-evolution.png)](Diagram%20showing%20four%20mechanisms%20of%20evolution%20acting%20on%20the%20same%20beetle%20population.%20Mutation%20introduces%20a%20new%20green%20allele,%20migration%20brings%20a%20blue-striped%20beetle%20into%20a%20population%20of%20orange-spotted%20beetles,%20genetic%20drift%20changes%20allele%20representation%20by%20chance,%20and%20natural%20selection%20results%20in%20greater%20reproductive%20success%20of%20orange-spotted%20beetles.)
 :::
 :::::
 
 ## How Does Gene Flow Affect Natural Selection?
 
-- [Gene flow]{.keyword} moves alleles among populations.
-- [Natural selection]{.keyword} changes allele frequencies based on differences in fitness.
-- Gene flow can **introduce alleles that selection favors or removes**.
-- Therefore, gene flow can **reinforce or oppose** the effects of natural selection.
+::::: columns
+::: {.column width="50%"}
+- [Migration]{.keyword} moves individuals among populations
+- Migration + movement of alleles = [gene flow]{.keyword}
+- [Natural selection]{.keyword} favors alleles associated with higher fitness
+- Gene flow and selection can move allele frequencies in the **same or opposite directions**
+:::
+
+::: {.column width="50%"}
+![Gene flow moves alleles between populations.](images/gene-flow-illustration.png){fig-alt="Diagram showing a striped beetle migrating from a population of striped beetles toward a population of unstriped beetles, with an arrow labeled \"Gene flow.\""}
+:::
+:::::
 
 ## Example: Gene Flow Can Oppose Local Adaptation
 
@@ -241,61 +282,46 @@ These mechanisms are **not mutually exclusive**. The allele frequencies we obser
 ## How Do We Know Whether a Trait Is Heritable?
 
 ::::: columns
-::: {.column width="55%"}
-- [Heritable]{.keyword} variation is variation that is at least partly caused by genetic differences among individuals
-- Similarity between parents and offspring alone does **not** prove that a trait is heritable—parents and offspring can also share environments
-- Biologists can use breeding experiments, genetic data, and other methods to separate genetic from environmental effects
+::: {.column width="50%"}
+- Measure a trait in **parents and offspring**
+- Test whether offspring tend to **resemble their parents**
+- Account for **shared environmental effects** that could also cause resemblance
 
-### Why it matters
-
-Natural selection can produce evolutionary change only when differences affecting fitness are **heritable**
+**Parent–offspring resemblance can provide evidence that variation is heritable.**
 :::
 
-::: {.column width="45%"}
-![](images/hansonn-2016-parent-offspring-association.png)
-
-Offpring phenotype is related to parent phenotype. Source: [Hansonn et al. 2016, *Ecol Evol*](https://pmc.ncbi.nlm.nih.gov/articles/PMC4829041/).
-:::
-:::::
-
-## From Alleles to Evolution
-
-::::: columns
-::: {.column width="55%"}
-- An [allele]{.keyword} is a version of a gene
-- Individuals carry alleles, but we describe [allele frequencies]{.keyword} for an entire population
-- If allele frequencies change from one generation to the next, the population has **evolved**
-
-### Keep the levels straight
-
-**Individuals:** genotype → phenotype → survival & reproduction
-
-**Population:** allele frequencies change across generations
-:::
-
-::: {.column width="45%"}
-![Lake Washington sticklebacks evolved fewer armor plates as low-plated Eda alleles increased in frequency. Source: [Yamasaki et al. 2025, *Evolution*](https://academic.oup.com/evolut/article/80/3/631/8381222).](images/yamasaki-2026-stickleback-evolution.png){fig-alt="Graphs showing changes in armor plate number, plate morph frequencies, and Eda allele frequencies in Lake Washington threespine sticklebacks over time."}
+::: {.column width="50%"}
+![Parent and offspring plate numbers are positively related, providing evidence that variation in plate number is heritable. Source: [Hansson et al. 2016, *Ecol Evol*](https://doi.org/10.1002/ece3.2020).](images/hansson-2016-parent-offspring-plate-number.png){fig-alt="Scatterplot of offspring plate number versus mid-parent plate number, showing a positive relationship: parents with more plates tend to have offspring with more plates."}
 :::
 :::::
 
 ## Why Does Resistance Evolve?
 
+- [Mutation]{.keyword} creates new alleles at random with respect to their effects; a tiny fraction happen to confer resistance
+- Pesticides and antibiotics give resistant individuals a large [fitness]{.keyword} advantage
+- Resistant individuals survive and reproduce → resistance alleles increase in frequency
+- Strong selection can cause resistance to evolve rapidly
+
+**Mutation creates variation; natural selection changes its frequency.**
+
+## How Can We Slow Resistance Evolution?
+
 ::::: columns
 ::: {.column width="55%"}
-- Pesticides and antibiotics create an environment in which resistant individuals have much higher [fitness]{.keyword} than susceptible individuals
-- Resistant individuals survive and reproduce, causing resistance alleles to increase in frequency
-- Strong selection can therefore cause resistance to evolve rapidly
+Reduce the **selection for resistance**.
 
-### How can we slow it?
-
-Reduce the consistent fitness advantage of resistance.
-
-For example, a **refuge** allows susceptible individuals to survive and reproduce, slowing the increase of resistance alleles.
+- A **refuge** is a nearby area where individuals are not exposed to the control agent
+- Susceptible individuals survive and reproduce in the refuge
+- Other strategies can also reduce the reproductive success of resistant individuals
+- [Migration]{.keyword} brings susceptible and resistant individuals together → mating causes [gene flow]{.keyword}
+- Other strategies can also reduce the reproductive success of resistant individuals
 
 **Managing resistance means managing natural selection.**
 :::
 
 ::: {.column width="45%"}
-![Pink bollworm resistance to Bt cotton remained rare in Arizona despite widespread Bt cotton use. Source: [Tabashnik et al. 2005, *Proc Natl Acad Sci U S A*](https://pmc.ncbi.nlm.nih.gov/articles/PMC7817146/).](images/tabashnik-2005-management-strategies.png)
+![Two strategies used to manage pink bollworm resistance to Bt cotton. **A:** Nearby non-Bt refuges produce susceptible moths that mate with resistant survivors. **B:** Susceptible sterile moths are released to mate with resistant survivors. Source: [Tabashnik et al. 2020, *Proc Natl Acad Sci U S A*](https://doi.org/10.1073/pnas.2019115118).](images/tabashnik-2005-management-strategies.png)
 :::
 :::::
+
+# 
