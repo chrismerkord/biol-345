@@ -666,18 +666,13 @@ Managers alter **gene flow + genetic variation**
 :::
 ::::::
 
-::: fragment
-
-------------------------------------------------------------------------
-
-**Discuss with your group**
+## Discuss with your group
 
 Using these examples, formulate **one general principle** about how populations evolve in changing environments.
 
 Think about:
 
 **genetic variation · natural selection · gene flow**
-:::
 
 ::: notes
 - Don't explain the three examples again — students have just seen them
