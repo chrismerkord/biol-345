@@ -269,7 +269,7 @@ Example: a beneficial allele might be favored by selection, while migration brin
 - Striped insects are better camouflaged on *Adenostoma*; unstriped insects on *Ceanothus*
 - Natural selection therefore favors different morphs on the two hosts.
 
-![Caption: Striped and unstriped *Timema cristinae* and their respective host plants. Source: [Farkas et al. 2013 Curr Biol](https://doi.org/10.1016/j.cub.2013.07.067).](images/farkas-2013-timema-morphs-hosts.jpg){width="70%"}
+![Caption: Striped and unstriped *Timema cristinae* and their respective host plants. Source: [Farkas et al. 2013 Curr Biol](https://doi.org/10.1016/j.cub.2013.07.067).](images/farkas-2013-timema-morphs-hosts.jpg){width="50%"}
 :::
 
 ::: {.column width="50%"}
@@ -393,4 +393,347 @@ Be ready to share your prediction with the class.
 - **Parents and offspring:** do differences in phenology resemble those of their parents when raised under similar conditions?
 - **Genetic change:** do alleles associated with phenology change in frequency through time?
 - **Evolution requires heritable change in a population — not just a change in phenotype.**
+:::
+
+## Bumble Bees Across North Dakota
+
+::::: columns
+::: {.column width="50%"}
+Researchers sampled two widespread bumble bees across North Dakota:
+
+- *Bombus ternarius* — 161 bees from 13 sites
+- *Bombus griseocollis* — 198 bees from 17 sites
+
+They compared **tens of thousands of genetic variants** among bees from different parts of the state.
+
+**Are populations genetically isolated — or are alleles moving across North Dakota?**
+:::
+
+::: {.column width="50%"}
+![Two bumble bee species and their sampling locations across North Dakota. *Bombus ternarius* and *B. griseocollis* were sampled at sites distributed across much of the state. [Hall et al. (2026), Fig. 1](https://doi.org/10.1007/s10531-026-03392-y), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).](images/hall-2026-north-dakota-bumble-bees.png){fig-alt="Photographs of the tricolored bumble bee, Bombus ternarius, and brown-belted bumble bee, Bombus griseocollis, alongside a map of North Dakota showing sampling sites for both species distributed across the state."}
+:::
+:::::
+
+## These Populations Are Genetically Very Similar
+
+::::: columns
+::: {.column width="50%"}
+Across North Dakota:
+
+- Bees from different sites **do not form distinct genetic clusters**
+- Genetic differentiation among sites is extremely low
+- This suggests extensive [gene flow]{.keyword} across the landscape
+
+**So how could local adaptation occur?**
+:::
+
+::: {.column width="50%"}
+PCA shows most points cluster near each other (a single cloud of points), indicating little genetic differentiation
+
+![Genetic variation in two North Dakota bumble bees. Samples from different collection sites overlap extensively rather than forming distinct genetic clusters. Hall et al. (2026), Fig. 3, CC BY 4.0.](images/hall-2026-bumble-bee-genetic-structure.png){fig-alt="Principal component plots of genetic variation in Bombus ternarius and Bombus griseocollis from sampling sites across North Dakota. Points representing different sampling locations overlap extensively, indicating very little overall genetic differentiation among sites." width="513"}
+:::
+:::::
+
+## Selection Can Act Despite Gene Flow
+
+::::: columns
+::: {.column width="50%"}
+- Most of the genome is **similar across North Dakota**
+
+- But some genetic variants were associated with environmental differences in temperature, precipitation, land cover
+
+- [Gene flow]{.keyword} mixes alleles across the landscape, while [natural selection]{.keyword} can favor particular alleles under different conditions.
+:::
+
+::: {.column width="50%"}
+![Genetic variants associated with environmental gradients in North Dakota bumble bees. RDA identified candidate loci associated with combinations of climate and land-cover variables, providing evidence consistent with potential local adaptation. [Hall et al. (2026), Fig. 4](https://doi.org/10.1007/s10531-026-03392-y), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).](images/hall-2026-bumble-bee-local-adaptation.png){fig-alt="Redundancy analysis plots for two North Dakota bumble bee species showing associations between genetic variants and environmental variables. Environmental vectors represent gradients in climate and land cover, and highlighted genetic variants indicate candidate loci associated with those gradients." width="369"}
+:::
+:::::
+
+::: notes
+- **RDA plot** = associations between genetic variation and environment
+- **SNP** = single DNA position with different alleles among individuals
+- **Each small point** = one SNP
+- **Highlighted points** = candidate SNPs unusually strongly associated with environment
+- **Arrow** = one environmental variable
+- **Arrow direction** = direction that environmental variable increases
+- SNPs **in direction of arrow** → allele frequencies positively associated with that variable
+- SNPs **opposite arrow** → negatively associated
+- **Longer arrows** = stronger contribution to genetic variation
+- Similar arrow directions → environmental variables **positively correlated**
+- Opposing arrows → variables **negatively correlated**
+- Figure 3: high gene flow → little genome-wide differentiation
+- Figure 4: environment ↔ variation at **particular loci**
+- Caveat: **association ≠ adaptation**; no demonstrated effect on phenotype or fitness
+:::
+
+## Conservation application
+
+- Gene flow can help populations maintain the **genetic variation needed to respond to environmental change**.
+
+- To conserve these species:
+
+  - maintain **connected habitat** that allows movement and gene flow
+
+  - protect populations across **different environments** so locally favored variation is not lost
+
+## Can Trees Keep Up With Climate Change?
+
+Tree populations can become **locally adapted** to their climate
+
+But climate is changing faster than trees can respond:
+
+- long [generation times]{.keyword} → slow evolutionary change
+- limited seed dispersal → slow movement of populations and genes
+
+As climate warms, locally adapted populations may become **poorly matched to their environment**.
+
+## Could we move better-adapted genes ourselves?
+
+::::: columns
+::: {.column width="43%"}
+Historically: **local seed sources** assumed best adapted to local conditions
+
+But today's climate ≠ the climate those populations evolved in
+
+Study by Etterson et al. 2020:
+
+- **16 planting sites** across northeastern Minnesota
+- **Bur oak + northern red oak** grown from northern vs. southern Minnesota seed sources
+- Same planting sites → test whether **seed source affects survival, growth, and phenology**
+:::
+
+::: {.column width="57%"}
+![Seed sources and experimental planting sites for bur oak and northern red oak in Minnesota. Trees from northern and southern seed zones were planted together at sites in northeastern Minnesota. Source: [Etterson et al 2020 *Ecol Appl*, Fig. 1](https://doi.org/10.1002/eap.2092), [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).](images/etterson-2020-study-design.jpg){fig-alt="Map of Minnesota showing northern and southern seed-source zones for bur oak and northern red oak and 16 experimental planting sites in northeastern Minnesota. Trees originating from both seed zones were planted at the northern sites to compare their performance under the same local conditions." width="247"}
+:::
+:::::
+
+::: notes
+- Question: **Is "local seed is best" still true as climate warms?**
+- Oaks collected from **northern vs. southern Minnesota seed zones**
+- Seeds grown into seedlings → planted at **16 northeastern Minnesota sites**
+- Northern + southern sources planted at the **same sites** → shared environments
+- Compared **survival, growth, and phenology**
+- If southern sources perform better in the north → possible **adaptation lag** in local populations
+- Management question → should forestry move **warmer-adapted genetic material northward?**
+
+**Connection to earlier activity:** essentially a **common-garden/provenance experiment** — compare different genetic sources under the same environmental conditions.
+:::
+
+## Southern Trees Are Already Doing Better
+
+::::: columns
+::: {.column width="43%"}
+After three years:
+
+- Survival was **high overall**
+- Southern-source **red oak** survived better and grew faster than northern-source trees
+- Seed sources also differed in **seasonal traits** such as budburst and leaf retention
+
+Local trees are not necessarily the **best performers under today's climate**.
+
+This may indicate an **adaptation lag** as climate warms.
+:::
+
+::: {.column width="57%"}
+- Compare **northern vs. southern seed sources**
+- Strongest advantage for **southern-source red oak**
+- Bur oak responses were **weaker/more variable**
+:::
+:::::
+
+## Southern-Source Red Oaks Are Doing Better
+
+::::: columns
+::: {.column width="43%"}
+After three years:
+
+- Survival was **high overall**
+- Southern-source **red oak** survived better and grew faster than northern-source trees
+- Seed sources also differed in **seasonal traits** such as budburst and leaf retention
+
+Local trees are not necessarily the **best performers under today's climate**.
+
+This may indicate an **adaptation lag** as climate warms.
+:::
+
+::: {.column width="57%"}
+- Compare **northern vs. southern seed sources**
+- Strongest advantage → **southern-source red oak**
+- Bur oak responses → **weaker or more variable**
+
+![Survival, growth, and seasonal traits of bur oak and northern red oak from northern and southern Minnesota seed sources after planting in northeastern Minnesota. Southern-source red oak showed particularly strong performance relative to the northern source. [Etterson et al. (2020), Fig. 2](https://doi.org/10.1002/eap.2092).](images/etterson-2020-oak-performance.jpg){fig-alt="Graphs comparing survival, growth, and seasonal traits of bur oak and northern red oak seedlings from northern and southern Minnesota seed sources. Differences between seed sources vary by species and trait, with southern-source red oak showing the clearest advantages in survival and growth."}
+:::
+:::::
+
+::: notes
+- Figure 2 = **results from the experiment on previous slide**
+- Compare **light vs. dark bars within each species** = different seed sources
+- Same northern planting environments → differences associated with **seed source**
+- Red oak = clearest result: **southern source survived better + grew faster**
+- Bur oak = **weaker/mixed response** → not simply "southern is always better"
+- Phenology also differs → genetic source affects **seasonal timing**
+- Key result: **local source ≠ necessarily best performer**
+- Possible **adaptation lag** = local populations adapted to past climate, while environment is changing rapidly
+- Does not prove southern sources will always be best → short-term experiment + species-specific responses
+- Sets up management question: **should managers deliberately move southern genetic material north?**
+:::
+
+## Assisted Migration: Moving Genes on Purpose
+
+[Assisted migration]{.keyword} can help forests keep pace with a rapidly changing climate.
+
+**What should managers do?**
+
+- Don't assume **local seed is always best**
+- Include genetically diverse seed from **somewhat warmer locations farther south**
+- Plant a **mixture of sources** rather than betting on a single "best" genotype
+- Monitor survival and growth → **adjust future planting decisions**
+
+This accelerates [gene flow]{.keyword}, giving natural selection **more genetic variation to work with**.
+
+::: notes
+- **Assisted migration** = intentionally moving seeds/genes in direction climate is shifting
+- Not "replace northern trees with southern trees"
+- Better strategy = **increase genetic diversity + hedge bets**
+- Etterson study → evidence that strict **"local is best"** assumption can fail under changing climate
+- Southern red oak result especially strong; **not universal across species**
+- TNC → actively sourcing some seed from **central Minnesota for northern plantings**
+- TNC northern MN program → **\>3 million trees/year**
+- MN DNR → climate considered in reforestation + assisted seed movement/seed-transfer planning
+- Management goal = forests capable of surviving **future climate**, not just today's climate
+- Evolution connection: managers alter **gene flow** → introduce potentially useful alleles → selection still determines which succeed
+- Important distinction: assisted migration **facilitates evolution; managers aren't choosing the winning alleles themselves**
+:::
+
+## This is already happening in Minnesota
+
+::::: columns
+::: {.column width="50%"}
+- **Forests:** TNC, Minnesota DNR, and partners are incorporating seed from **warmer locations farther south** into northern restoration
+- **Grasslands:** TNC is using **multiple seed sources** to increase genetic diversity and adaptive potential in prairie restorations ([Lindstrom et al 2023 *Ecol Evol*](https://doi.org/10.1002/ece3.10756)).
+- Same principle → restoration can manage **genetic variation and gene flow**, not just species composition
+:::
+
+::: {.column width="50%"}
+![The Nature Conservancy planted 3.2 million tree seedlings across northern Minnesota in 2026, working with the Minnesota DNR, U.S. Forest Service, and county partners. Some seedlings were grown from seed collected farther south to better match projected future climates. Screenshot from The Nature Conservancy (2026).](images/tnc-2026-tree-planting-article.png){fig-alt="Screenshot of a 2026 Nature Conservancy article titled 'TNC Plants 3.2 Million Trees in Minnesota,' describing a large-scale tree planting effort across northern Minnesota to establish more diverse and climate-resilient forests."}
+:::
+:::::
+
+## What Do These Examples Have in Common?
+
+:::::: columns
+::: {.column width="30%" style="text-align:center;"}
+### Changing Seasons
+
+**Environmental change**
+
+↓
+
+Changes in phenology
+
+↓
+
+**Plasticity or evolution?**
+:::
+
+::: {.column width="30%" style="text-align:center;"}
+### Bumble Bees
+
+**Different environments**
+
+↓
+
+Selection favors different alleles
+
+↕
+
+**Gene flow mixes populations**
+:::
+
+::: {.column width="30%" style="text-align:center;"}
+### Forest Restoration
+
+**Rapid climate change**
+
+↓
+
+Local populations may lag behind
+
+↓
+
+Managers alter **gene flow + genetic variation**
+:::
+::::::
+
+::: fragment
+
+------------------------------------------------------------------------
+
+**Discuss with your group**
+
+Using these examples, formulate **one general principle** about how populations evolve in changing environments.
+
+Think about:
+
+**genetic variation · natural selection · gene flow**
+:::
+
+::: notes
+- Don't explain the three examples again — students have just seen them
+- Point to each column → ask what evolutionary problem/process it illustrates
+- Give groups \~1–2 min: formulate **one general principle** connecting the examples
+- Ask 2–3 groups to share
+- Then reveal the synthesis statement
+- Phenology → environment changes phenotype; need to distinguish **plasticity vs. heritable change**
+- Bumble bees → **selection + gene flow** can act simultaneously
+- Trees → managers can change the **genetic variation available to selection**
+- Broader lesson → ecology determines the selective environment; evolution changes populations in response
+- Transition → **Key Takeaways**
+:::
+
+## Populations can only evolve from the genetic variation available to them. Selection, gene flow, drift, and mutation determine how that variation changes through time.
+
+# Key Takeaways
+
+## Evolution in Ecological Time
+
+- Evolution = change in **allele frequencies through time**
+- [Natural selection]{.keyword}, [genetic drift]{.keyword}, [migration]{.keyword}, and [mutation]{.keyword} can act **simultaneously**
+- Evolution can occur over **ecologically relevant timescales**
+- Environmental change can alter **which traits and alleles are favored**
+- [Gene flow]{.keyword} can either **reinforce or oppose local adaptation**
+- Evolutionary thinking has practical consequences for **conservation and management**
+
+# Looking Ahead
+
+## From Evolution to Physiological Ecology
+
+**Evolution doesn't stop being relevant when we leave the evolution chapter.**
+
+Next, we'll ask how organisms **function in their environments**:
+
+- How do **climate and physical conditions** shape where species can live?
+- How can individuals [acclimate]{.keyword} to changing conditions?
+- How does **adaptation** differ from acclimation?
+- How do organisms maintain [homeostasis]{.keyword}?
+- How does plant metabolism respond to the environment?
+
+**Evolution underlies all of these questions.**
+
+The traits that allow organisms to survive, function, and reproduce in particular environments are themselves products of **evolutionary history**.
+
+::: notes
+- Evolution is not a topic we're now "done with"
+- It will underlie essentially **everything else in ecology**
+- Physiological ecology → focus shifts from **how populations change** to **how organisms function**
+- Climate activity provides direct bridge:
+  - acclimation/plasticity → individual response within lifetime
+  - adaptation → heritable differences shaped by evolution
+- Climate + physiology help determine **species distributions**
+- Biomes → large-scale patterns in climate + organisms adapted to those conditions
+- Homeostasis → physiological mechanisms organisms use to function despite environmental variation
+- Plant metabolism → photosynthesis/respiration constrained by temperature, water, light, etc.
+- Keep asking throughout course: **Why does this organism have these traits? What environmental conditions shaped them?**
+- Evolution remains the underlying explanation even when it is not the explicit subject
 :::
