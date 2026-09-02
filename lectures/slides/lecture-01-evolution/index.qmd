@@ -324,4 +324,73 @@ Reduce the **selection for resistance**.
 :::
 :::::
 
-# 
+# Applications
+
+## The Growing Season Is Getting Longer
+
+::::: columns
+::: {.column width="35%"}
+Since 1970, Fargo's **freeze-free season has lengthened by about three weeks**.
+
+A longer freeze-free season can change:
+
+- timing of **spring warming**
+- exposure to **late freezes**
+- accumulation of **growing degree days**
+- timing of **fall freezes**
+
+These changes can alter the **costs and benefits of seasonal timing** for organisms.
+:::
+
+::: {.column width="65%"}
+![Fargo's freeze-free growing season increased by 22 days from 1970–2025. Source: [Climate Central](https://www.climatecentral.org/climate-matters/2026-allergy-season), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).](images/fargo-freeze-free-growing-season-trend.jpg){fig-alt="Line graph of Fargo's annual freeze-free growing season from 1970 to 2025. The number of freeze-free days varies substantially among years but shows a long-term increasing trend of 22 days over the period."}
+:::
+:::::
+
+## Changing Seasons Affect Organisms
+
+[Phenology]{.keyword} is the timing of recurring biological events.
+
+Examples include:
+
+- budburst, leaf-out, flowering, and seed production
+- insect emergence
+- breeding and reproduction
+- migration
+- hibernation and dormancy
+
+Changes in phenology can have **other ecological consequences** — for individuals, populations, and interactions among species.
+
+## How Might Organisms Respond?
+
+### In groups of 3–4:
+
+Choose an organism and predict **one or more biological changes** that could result from Fargo's longer growing season.
+
+Start with a change in **phenology**, then consider its consequences.
+
+Be specific:
+
+**What would change? How would you measure it?**
+
+Be ready to share your prediction with the class.
+
+## Is It Evolution?
+
+::: incremental
+- A change in a **phenotypic trait** could result from:
+
+  - [Phenotypic plasticity]{.keyword}: Same genotype → different phenotype in a different environment
+
+  - [Evolution]{.keyword}: Heritable variation → allele frequencies change through time
+:::
+
+## What Evidence Could Distinguish Evolution from Plasticity?
+
+::: incremental
+- **Common garden:** raise individuals from different populations under the same conditions → do differences persist?
+- **Environmental experiment:** expose the same populations to different temperatures → does phenology change?
+- **Parents and offspring:** do differences in phenology resemble those of their parents when raised under similar conditions?
+- **Genetic change:** do alleles associated with phenology change in frequency through time?
+- **Evolution requires heritable change in a population — not just a change in phenotype.**
+:::
