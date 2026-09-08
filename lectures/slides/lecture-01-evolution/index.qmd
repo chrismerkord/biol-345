@@ -1,5 +1,8 @@
 ---
-title: "Lecture 1: Evolution"
+title: "Lecture 1: Evolution in Ecology"
+description: Explore how populations evolve through time, the mechanisms that drive evolution, and its implications for ecology and conservation.
+image: images/multiple-mechanisms-evolution.png
+date: 2026-08-31
 sort: 1
 ---
 
