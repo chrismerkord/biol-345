@@ -4,9 +4,12 @@ image: images/listing.png
 listing:
   contents:
     - "slides/lecture-*/index.qmd"
+  type: default
   sort: "sort"
-  type: grid
   image-placeholder: ../images/placeholder.png
+  fields: [title, subtitle, description, date, author, image]
+  sort-ui: [title, date]
+  filter-ui: [title, description, date]
 ---
 
 Weekly lectures.
