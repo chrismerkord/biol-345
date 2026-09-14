@@ -3,6 +3,7 @@ title: "Physiological Ecology"
 subtitle: "Lecture 2"
 description: Lecture on physiological ecology.
 date: 2026-09-09
+image: images/morro-bay-kangaroo-rat.jpg
 author: Chris Merkord
 sort: 2
 ---
