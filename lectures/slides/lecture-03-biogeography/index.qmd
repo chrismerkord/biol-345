@@ -1,0 +1,195 @@
+---
+title: "Biogeography"
+subtitle: "Lecture 3"
+description: Lecture on biogeography.
+date: 2026-09-14
+image: images/morro-bay-kangaroo-rat.jpg
+author: Chris Merkord
+sort: 3
+---
+
+## Biogeography explains where life is — and why
+
+:::::: columns
+::: {.column width="50%"}
+- [Biogeography]{.keyword}: geographic distribution of species
+- Two lenses:
+  - [Ecological biogeography]{.keyword}: conditions now
+  - [Historical biogeography]{.keyword}: events over time
+- Core question:
+  - Why here?
+  - Why not there?
+:::
+
+:::: {.column width="50%"}
+::: {#fig-biogeography-layout layout-ncol="2"}
+![Biomes reflect broad ecological patterns driven largely by climate and environment. Image: Ville Koistinen, CC BY-SA 3.0](images/biomes-map.png){#fig-biomes}
+
+![Biogeographic realms reflect long-term isolation and evolutionary history. Image: Journal Science / AAAS](images/realms-map.jpg){#fig-realms}
+:::
+::::
+::::::
+
+## Diversity changes with the scale of the question
+
+::::: columns
+::: {.column width="50%"}
+- [Species richness]{.keyword}: number of species
+- [Alpha diversity]{.keyword}: local richness
+- [Beta diversity]{.keyword}: turnover among sites
+- [Gamma diversity]{.keyword}: regional richness
+- Same landscape, different answers
+:::
+
+::: {.column width="50%"}
+![Alpha, beta, and gamma diversity describe biodiversity at different spatial scales. Alpha diversity measures diversity within local samples, gamma diversity across the larger region, and beta diversity describes differentiation among samples. Source: Socratic.org.](images/clipboard-4059368166.png){fig-alt="Diagram showing several circular local samples within a larger region. Alpha diversity represents diversity within each sample, gamma diversity represents diversity across the entire region, and beta diversity represents differences in species composition among samples."}
+:::
+:::::
+
+## Counting species depends on sampling effort
+
+::::: columns
+::: {.column width="50%"}
+- [Species-accumulation curve]{.keyword}
+  - species found × sampling effort
+  - should level off if sampling is complete
+- Main point:
+  - observed richness ≠ true richness
+  - more sampling usually finds more species
+:::
+
+::: {.column width="50%"}
+![Species accumulation with increasing sampling effort for termites in primary forest at Danum Valley, Sabah. The curve begins to level off as additional sampling yields progressively fewer new species. Source: Jones & Eggleton (2000), Journal of Applied Ecology 37:191–203, Fig. 3.](images/species-accumulation-curve.gif){fig-alt="Species-accumulation curve showing cumulative termite species richness increasing rapidly during early sampling and then increasing more slowly as the number of sampled transect sections approaches 40."}
+:::
+:::::
+
+## Bigger areas usually hold more species
+
+::::: columns
+::: {.column width="50%"}
+- [Species-area curve]{.keyword}
+  - species richness × area
+- Larger areas often contain:
+  - more individuals
+  - more habitat types
+  - lower extinction risk
+- [Species-habitat diversity hypothesis]{.keyword}
+  - more area → more habitats → more species
+:::
+
+::: {.column width="50%"}
+![Species richness of breeding land birds increases with island area across the Lesser Antilles. Source: Ricklefs (2007), Philosophical Transactions of the Royal Society B 362:229–247, Fig. 4b; data from Ricklefs & Lovette (1999).](images/clipboard-1945666484.png){fig-alt="Scatterplot showing the positive species–area relationship for breeding land birds on Lesser Antillean islands. Larger islands generally support more bird species than smaller islands."}
+:::
+:::::
+
+## Island diversity is a balance, not a fixed list
+
+::::: columns
+::: {.column width="50%"}
+- [Equilibrium theory of island biogeography]{.keyword}
+- Two opposing processes:
+  - [Immigration]{.keyword}: species arrive
+  - [Extinction]{.keyword}: species disappear
+- [Equilibrium species richness]{.keyword}: number stays stable
+- [Equilibrium turnover rate]{.keyword}: identities keep changing
+:::
+
+::: {.column width="50%"}
+![The equilibrium theory of island biogeography. Matthews and Triantis 2021 Curr Biol.](images/clipboard-2129865535.png)
+:::
+:::::
+
+## Dispersal depends on the organism and the barrier
+
+::::: columns
+::: {.column width="50%"}
+- [Dispersal]{.keyword}: movement to a new area
+- Barrier types:
+  - [Corridor]{.keyword}: most can cross
+  - [Filter]{.keyword}: some can cross
+  - [Sweepstakes route]{.keyword}: rare crossing events
+- Crossing mechanisms:
+  - [Jump dispersal]{.keyword}: rapid, long-distance jump
+  - [Diffusion]{.keyword}: slow spread outward
+  - [Secular migration]{.keyword}: spread slow enough for evolution en route
+:::
+
+::: {.column width="50%"}
+![Colonization of the Hawaiian Islands by Drosophila and Cyanea. Dispersal across barriers depends on both geography and the dispersal abilities of the organism. Figure: Andrew Z. Colvin, Wikimedia Commons, CC BY-SA 4.0; adapted from Coyne & Orr (2004).](images/clipboard-4207717092.png){fig-alt="Map of the Hawaiian Islands showing inferred colonization routes among islands for Drosophila flies and Cyanea plants. Arrows connect islands where lineages dispersed across ocean barriers, with the two groups showing different patterns of movement."}
+:::
+:::::
+
+## Geography changes, so evolution changes
+
+::::: columns
+::: {.column width="50%"}
+- [Plate tectonics]{.keyword} rearranges land and sea
+- Isolation can produce [allopatric speciation]{.keyword}
+- Two historical routes:
+  - dispersal: organisms move
+  - [vicariance]{.keyword}: barriers split populations
+- [Sympatric speciation]{.keyword}
+  - speciation without geographic isolation
+:::
+
+::: {.column width="50%"}
+![Figure: Michal Klajban (2023), Wikimedia Commons, CC BY 4.0; distribution based partly on IUCN data.](images/clipboard-3484962736.png)
+:::
+:::::
+
+## Species richness usually increases toward the equator
+
+:::: columns
+::: {.column width="50%"}
+- [Latitudinal gradient]{.keyword}
+  - low latitude: more species
+  - high latitude: fewer species
+- Important point:
+  - pattern is strong
+  - explanation is not simple
+- Likely causes:
+  - energy
+  - climate stability
+  - evolutionary time
+  - area
+:::
+::::
+
+## Climate organizes life at global scales
+
+::::: columns
+::: {.column width="50%"}
+- [Biome]{.keyword}
+  - broad climate + plant structure
+- Similar climates can produce similar-looking communities
+- Different species, similar forms
+- Do not confuse:
+  - biome = climate/vegetation structure
+  - [biogeographic realm]{.keyword} = evolutionary history
+:::
+
+::: {.column width="50%"}
+![Global species richness of living terrestrial vertebrates. Diversity is generally highest near the equator (red) and declines toward the poles (blue), illustrating the latitudinal diversity gradient. Figure: Mannion et al. (2014), map created by GLOBAÏA based on work by Clinton Jenkins, CC BY 3.0.](images/clipboard-67888264.png){fig-alt="World map of terrestrial vertebrate species richness, colored from blue for lower richness to red for higher richness. The highest richness is concentrated in tropical regions near the equator, particularly northern South America, central Africa, and Southeast Asia, while richness generally declines toward higher latitudes."}
+:::
+:::::
+
+## Biogeography helps decide what to protect
+
+::::: columns
+::: {.column width="50%"}
+- Conservation applications:
+  - reserve size
+  - reserve spacing
+  - habitat connectivity
+  - representative regions
+- [Biodiversity hotspot]{.keyword}
+  - high richness
+  - high endemism
+  - high threat
+- Final point:
+  - maps are arguments about priorities
+:::
+
+::: {.column width="50%"}
+:::
+:::::
