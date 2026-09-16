@@ -1,7 +1,7 @@
 ---
 title: "Lab 2: Stream Ecology"
 description: Use seine nets to sample and identify fishes while examining how fish diversity, habitat, and ecological adaptations reflect stream health.
-image: images/listing.png
+image: images/Picture1.png
 sort: 1
 format:
   html:
@@ -208,7 +208,7 @@ Fish species occupy different roles within stream ecosystems. Understanding thes
 ## Species List
 
 | Family | Common Name | Scientific Name |
-|---------------------------------|-------------------|---------------------|
+|--------------------------------|-------------------|---------------------|
 | Mooneyes – Hiodontidae | Goldeye | *Hiodon alosoides* |
 |  | Mooneye | *Hiodon tergisus* |
 | Catfishes – Ictaluridae | Stonecat | *Noturus flavus* |
@@ -271,4 +271,3 @@ Fish species occupy different roles within stream ecosystems. Understanding thes
 | Mudminnows – Umbridae | Central mudminnow | *Umbra limi* |
 | Lampreys – Petromyzontidae | Chestnut lamprey | *Ichthyomyzon castaneus* |
 |  | Silver lamprey | *Ichthyomyzon unicuspis* |
-
