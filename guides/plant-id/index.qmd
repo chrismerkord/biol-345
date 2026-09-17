@@ -1,10 +1,12 @@
 ---
 title: "Plant Identification Guide"
 short-title: "Plant Identification"
+description: Guide to the plants in the restored grassland at the Regional Science Center
 course-label: "BIOL 345 Ecology"
 document-context: "Merkord | Fa 2026"
 footer-logo: ../../tlm-styles/logos/msm-vertical-black-logo.png
 image: images/grass-panicles.png
+sort: 2
 format:
   html: default
   typst:
