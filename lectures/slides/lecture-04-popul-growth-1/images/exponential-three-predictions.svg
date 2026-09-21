@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="520" viewBox="0 0 1500 520" role="img" aria-labelledby="title desc">
+  <title id="title">Three predictions of exponential population growth</title>
+  <desc id="desc">Three simple graphs. Population size accelerates upward through time, total population growth rate increases linearly with population size, and per-capita growth rate remains constant as population size increases.</desc>
+  <rect width="1500" height="520" fill="white"/>
+
+  <!-- Population size versus time -->
+  <g transform="translate(0 0)">
+    <path d="M105 45 V405 H455" fill="none" stroke="#222222" stroke-width="5" stroke-linecap="round"/>
+    <path d="M112 395 C220 390 305 365 365 295 C410 243 432 165 448 72"
+          fill="none" stroke="#0072B2" stroke-width="9" stroke-linecap="round"/>
+    <g fill="#222222" font-family="Arial, Helvetica, sans-serif" font-size="25">
+      <text x="280" y="462" text-anchor="middle">Time</text>
+      <text x="34" y="225" text-anchor="middle" transform="rotate(-90 34 225)">Population size (N)</text>
+    </g>
+  </g>
+
+  <!-- Population growth rate versus population size -->
+  <g transform="translate(500 0)">
+    <path d="M105 45 V405 H455" fill="none" stroke="#222222" stroke-width="5" stroke-linecap="round"/>
+    <path d="M115 393 L445 70"
+          fill="none" stroke="#0072B2" stroke-width="9" stroke-linecap="round"/>
+    <g fill="#222222" font-family="Arial, Helvetica, sans-serif" font-size="25">
+      <text x="280" y="462" text-anchor="middle">Population size (N)</text>
+      <text x="31" y="225" text-anchor="middle" transform="rotate(-90 31 225)">Population growth rate (dN/dt)</text>
+    </g>
+  </g>
+
+  <!-- Per-capita growth rate versus population size -->
+  <g transform="translate(1000 0)">
+    <path d="M105 45 V405 H455" fill="none" stroke="#222222" stroke-width="5" stroke-linecap="round"/>
+    <path d="M115 158 H445"
+          fill="none" stroke="#0072B2" stroke-width="9" stroke-linecap="round"/>
+    <g fill="#222222" font-family="Arial, Helvetica, sans-serif" font-size="25">
+      <text x="280" y="462" text-anchor="middle">Population size (N)</text>
+      <text x="31" y="225" text-anchor="middle" transform="rotate(-90 31 225)">Per-capita growth rate</text>
+    </g>
+  </g>
+</svg>

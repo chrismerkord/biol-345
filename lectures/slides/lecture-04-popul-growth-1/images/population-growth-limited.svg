@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Limited population growth</title>
+  <desc id="desc">A simple graph of population size against time. The line rises slowly, accelerates, and then levels off.</desc>
+  <rect width="800" height="560" fill="white"/>
+  <g fill="none" stroke="#222222" stroke-width="5" stroke-linecap="round">
+    <path d="M120 55 V455 H750"/>
+  </g>
+  <g fill="#222222" font-family="Arial, Helvetica, sans-serif" font-size="30">
+    <text x="435" y="520" text-anchor="middle">Time</text>
+    <text x="42" y="255" text-anchor="middle" transform="rotate(-90 42 255)">Population size (N)</text>
+  </g>
+  <path d="M125 445 C250 443 320 425 375 365 C435 300 470 190 545 125 C600 78 655 70 735 70"
+        fill="none" stroke="#0072B2" stroke-width="9" stroke-linecap="round"/>
+</svg>
