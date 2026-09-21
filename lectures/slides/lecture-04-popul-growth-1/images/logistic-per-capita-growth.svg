@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Per-capita growth under logistic population growth</title>
+  <desc id="desc">A simple graph showing realized per-capita growth rate declining linearly as population size increases and reaching zero at carrying capacity.</desc>
+  <rect width="800" height="560" fill="white"/>
+  <path d="M145 55 V455 H750" fill="none" stroke="#222222" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#222222" font-family="Arial, Helvetica, sans-serif" font-size="30">
+    <text x="448" y="520" text-anchor="middle">Population size (N)</text>
+    <text x="43" y="255" text-anchor="middle" transform="rotate(-90 43 255)">Realized per-capita growth rate</text>
+  </g>
+  <path d="M155 85 L730 455"
+        fill="none" stroke="#0072B2" stroke-width="9" stroke-linecap="round"/>
+</svg>
