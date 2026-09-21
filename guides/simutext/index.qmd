@@ -1,6 +1,8 @@
 ---
 title: "SimUText Guide"
 description: "Registration and usage instructions for SimUText Active Learning System."
+image: https://visualclassrooms.com/images/about/simbio.png
+sort: 1
 ---
 
 ## About SimUText
