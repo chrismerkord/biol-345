@@ -1,0 +1,94 @@
+---
+title: "Lab 5: Forest Monitoring, Part 1"
+description: "Tree identification and measurement"
+sort: 5
+format:
+  html:
+    toc: true
+    page-layout: full
+  typst:
+    toc: false
+    logo:
+      width: 1cm
+      location: right-bottom
+      padding-right: 1cm
+      padding-bottom: 0.5cm
+      alt: Logo
+---
+
+## Learning objectives
+
+By completing this lab, you will be able to:
+
+- Identify common native tree species of the Red River Valley using morphological features and a field guide.
+- Distinguish leaf structures and other features useful for tree identification.
+- Measure diameter at breast height (DBH) to the nearest 0.1 cm with a diameter tape.
+- Estimate tree height with a 45° height-measurement tool and distances measured to the nearest 0.1 m.
+- Record observations, measurements, sketches, and procedural notes in your field notebook.
+
+## Introduction
+
+Forests consist of long-lived organisms whose species identity, size, height, and condition allow ecologists to monitor change over time. In this lab, you will practice identifying tree species and measuring tree size.
+
+Although most trees on and around the MSUM campus were planted, many represent species native to the region and provide a useful place to practice identification. Use observable characteristics and reference materials, including the [*Beginner's Guide to Minnesota Trees* available through the Minnesota DNR](https://www.dnr.state.mn.us/trees/native-trees.html). You will also measure two standard forest metrics: diameter at breast height and total tree height. These skills form the basis of forest inventories, habitat assessments, and ecological monitoring.
+
+## Methods
+
+### Part 1: Guided tree identification walk
+
+The instructor will lead a walk around the MSUM campus and adjacent neighborhoods. At each stop, examine the tree and attempt an identification using the reference materials before the species is verified. Take notes on the features that distinguish it from similar trees.
+
+During the walk, pay attention to:
+
+- Simple versus compound leaves
+- Opposite versus alternate leaf arrangement
+- Leaf shape, such as ovate or lanceolate
+- Leaf margins, such as serrate, lobed, or entire
+- Venation patterns
+- Bud and twig characteristics
+
+Record sketches and explanations in your field notebook to help with future identification.
+
+### Part 2: Measure tree diameter and height
+
+#### Diameter at breast height
+
+Use a metric diameter tape to measure DBH at **1.42 m above the ground**.
+
+1. Locate breast height on the trunk.
+2. Wrap the tape around the trunk perpendicular to the trunk's axis. Keep it level and untwisted.
+3. Read the **diameter** side of the tape, rather than the length side, to the nearest **0.1 cm**.
+4. Record the tree species and DBH in your field notebook.
+
+For leaning or irregular trees, follow the instructor's guidance on where and how to measure.
+
+#### Total tree height
+
+Use the plastic 45° height-measurement tool.
+
+1. Stand where you can see the top of the tree and hold the tool horizontally.
+2. Sight the top of the tree through the view hole and center the bubble level.
+3. Move toward or away from the tree until the top is aligned in the view hole **while the tool is level**.
+4. Measure the horizontal distance from your position to the base of the tree to the nearest **0.1 m**.
+5. Measure your eye height to the nearest **0.1 m**. Add it to the horizontal distance to calculate total tree height.
+6. Record the species, horizontal distance, eye height, and calculated total height in your field notebook.
+
+At a 45° viewing angle, the tree's height above your eye level equals the horizontal distance to its base:
+
+$$
+\text{Total tree height (m)} = \text{horizontal distance (m)} + \text{eye height (m)}.
+$$
+
+## What to turn in
+
+Record this lab entirely in your field notebook. Follow the **Field Notebook Instructions** for the required structure and metadata. Your entry should include:
+
+- The date, location, and other required field metadata.
+- Notes and sketches showing diagnostic features of trees examined on the walk, along with your identifications.
+- For each measured tree, its species and DBH in centimeters.
+- For each height estimate, the horizontal distance, your eye height, and the calculated total height in meters.
+- Any adjustments, uncertainty, or other procedural notes relevant to your measurements.
+
+## Reference
+
+- Minnesota Department of Natural Resources. [Minnesota's native trees](https://www.dnr.state.mn.us/trees/native-trees.html), including a link to the *Beginner's Guide to Minnesota Trees*.
