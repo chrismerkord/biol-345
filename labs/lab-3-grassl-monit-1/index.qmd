@@ -162,7 +162,7 @@ Record both for every species encountered.
 Record the general abundance of each species as **sparse**, **occasional**, **frequent**, or **very common**.
 
 | Abundance category | Definition |
-|------------------------------------|------------------------------------|
+|----|----|
 | Sparse | Seldom occurring and usually occurring as an isolated plant; few total individuals observed |
 | Occasional | Scattered plants in low numbers; sometimes occur in small clumps |
 | Frequent | Many plants observed; species is regularly seen but rarely becomes dominant |
@@ -293,7 +293,7 @@ Record any relevant comments, including uncertainty about identification or unus
 ## Plant Terminology
 
 | Term | Definition |
-|------------------------------------|------------------------------------|
+|----|----|
 | Annual | Plant species that complete their life cycle in one season, then die. |
 | Biennial | Plant species that complete their life cycle in two seasons, then die. |
 | Deciduous | Plants that shed their leaves seasonally, usually during the winter or dry season. The converse is evergreen. |
@@ -431,7 +431,7 @@ Page \_\_\_\_\_ of \_\_\_\_\_
 Record each species encountered, its general abundance based on the number of individuals encountered during the walk, and whether its distribution is localized or widespread.
 
 | Species Name | Abundance (Sparse, Occasional, Frequent, Very Common) | Distribution (Localized, Widespread) |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 |  |  |  |
 |  |  |  |
 |  |  |  |

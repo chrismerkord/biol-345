@@ -208,7 +208,7 @@ Fish species occupy different roles within stream ecosystems. Understanding thes
 ## Species List
 
 | Family | Common Name | Scientific Name |
-|--------------------------------|-------------------|---------------------|
+|----|----|----|
 | Mooneyes – Hiodontidae | Goldeye | *Hiodon alosoides* |
 |  | Mooneye | *Hiodon tergisus* |
 | Catfishes – Ictaluridae | Stonecat | *Noturus flavus* |
