@@ -94,14 +94,14 @@ VERY preliminary at this stage. Subject to change up to course start date.
   - 8
   - Oct 12
   - []{style="background-color: var(--bs-secondary-bg-subtle)"} Faculty Development Day: No Classes
-  - Student Presentations
+  - Unintended Consequences Group Formation
   - Lab 7: Bird Identification
   - Competition
 - 
   - 9
   - Oct 19
   - Predation, Herbivory, and Parasitism Review
-  - Student Presentations
+  - TBD
   - Lab 8: Crayfish Competition (FT) -OR- Lab 9: Urban Wetlands - Wastewater, Wildlife, and Stewardship (FT)
   - Predation, Herbivory, and Parasitism
 - 
