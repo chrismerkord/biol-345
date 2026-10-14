@@ -1,0 +1,12 @@
+---
+title: "Assignments"
+image: images/listing.png
+listing:
+  contents:
+    - "*/index.qmd"
+  type: default
+  sort: "sort"
+  image-placeholder: ../images/placeholder.png
+---
+
+Class assignments.

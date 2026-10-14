@@ -1,0 +1,284 @@
+---
+title: "Invasion! How Invasive Species Change Ecosystems"
+description: Investigate how invasive species change an ecosystem using ecological principles, causal diagrams, and evidence to evaluate management and recovery.
+image: images/listing.png
+sort: 1
+---
+
+## Overview
+
+Ecosystems are systems of interacting organisms and their physical environment. A change in one component can affect others through direct interactions, indirect effects, and feedback loops. Understanding these connections helps us explain how ecosystems function and anticipate their responses to change.
+
+In this assignment, you will use an invasion as a case study to investigate how an ecosystem’s components are connected. Your group will apply ecological principles and scientific evidence to explain how changes caused by an invasive species extend through the system. You will compare causal diagrams of the ecosystem before and after invasion, then evaluate how a management intervention could affect those connections and whether the ecosystem would recover.
+
+## Requirements and grading
+
+Work in groups of three to investigate one ecosystem in a defined geographic area. Usually, focus on one invasive species; multiple species are appropriate if they form a cohesive story.
+
+Each group has **12 minutes to present**, followed by approximately **20 minutes of questions and discussion**. Presentation dates and submission instructions will be posted on D2L.
+
+| Graded component | Share of assignment points | Scoring | Deadline |
+|-----------------|--------------------:|-----------------|-----------------|
+| **Group and Topic** | 5% | Group | Posted on D2L |
+| **Progress Check-in** | 10% | Group | At least one week before presenting |
+| **Slide Deck** | 45% | Group | Assigned presentation date |
+| **Oral Presentation** | 25% | Individual | Assigned presentation date |
+| **Discussion Questions** | 15% | Individual | Across the presentation series |
+
+The following sections explain the requirements for each component.
+
+## 1. Group and Topic
+
+Choose an ecosystem and invasion that interest your group and have enough published research to support an ecological explanation. Define the geographic area and focus on the parts of the ecosystem essential to your story.
+
+For example, “invasive species in lakes” is too broad. A particular invasive species in a named lake or regional lake system provides a more manageable focus.
+
+Possible starting points include:
+
+- Zebra mussels in a freshwater lake system.
+- Emerald ash borer in a forest ecosystem.
+- Invasive earthworms in northern hardwood forests.
+- Invasive grasses that alter fire regimes.
+- An introduced predator on an island.
+- Invasive plants in a prairie, wetland, or forest.
+
+### Submit your group and topic
+
+The deadline for group formation and topic choice is posted on D2L. Submit:
+
+- Group members.
+- Ecosystem and geographic area.
+- Invasive species you plan to investigate.
+- A short description of the ecological changes you expect to explore.
+
+Your topic is subject to instructor approval.
+
+Full credit requires a complete submission and an approved topic with a defined ecosystem, geographic area, and cohesive invasion story.
+
+## 2. Progress Check-in
+
+Complete a check-in **at least one week before your presentation**. Followin the instructor's meeting scheduling procedure posted on D2L.
+
+All group members must attend the meeting.
+
+Bring:
+
+- A presentation outline.
+- Drafts of both causal diagrams.
+- The three or more ecological principles you plan to apply.
+- Your proposed management strategy.
+- Your sources, including peer-reviewed articles.
+
+The check-in helps identify missing components, strengthen explanations, and ensure your topic fits the presentation time. Finished slides are not necessary, but you must have enough prepared for meaningful feedback.
+
+### Check-in scoring
+
+This component is scored for **completion and preparedness**, rather than the quality of unfinished work. Drafts must show a substantive attempt, but they do not need to be polished or correct yet.
+
+| Credit | Standard |
+|------------------------------------|------------------------------------|
+| **Full credit** | Complete the check-in on time with an outline, two draft diagrams, at least three proposed ecological principles, a management strategy, and the required sources identified. |
+| **3/4 credit** | Complete the check-in, but substantial preparation is missing or the check-in occurs late. |
+| **1/2 credit** | No check-in, or too little preparation for meaningful feedback. |
+
+Use the feedback to revise your work before presenting.
+
+## 3. Slide Deck
+
+Create your slides using PowerPoint, Google Slides, or another suitable tool. Submit your slide deck on D2L according to the posted deadline and instructions.
+
+### Required content
+
+Organize your presentation around the questions below. You do not need one slide per question, but you must address all of them.
+
+#### 1. What was the ecosystem like before invasion?
+
+Introduce the geographic area and the ecosystem features that matter to your story. Identify relevant native organisms, resources, environmental conditions, and ecological relationships. Focus on what the audience needs to understand the invasion.
+
+#### 2. How did the invasion occur?
+
+Introduce the invasive species and briefly explain:
+
+- Where it originated and how humans introduced it to the study area.
+- How it established and spread.
+- Which characteristics of the species or ecosystem help explain its success.
+
+#### 3. What changed, and why?
+
+Explain the important ecological effects of the invasion. Go beyond listing affected species: explain the mechanisms connecting the invader to those changes.
+
+Apply **at least three ecological principles discussed in class**. Basic principles are appropriate when they help explain your system. Examples include:
+
+- Population growth and density dependence.
+- Dispersal and environmental tolerances.
+- Competition for limited resources.
+- Predation, herbivory, parasitism, or disease.
+- Direct and indirect species interactions.
+- Food webs and trophic cascades.
+- Energy flow and nutrient cycling.
+- Disturbance and succession.
+
+**Naming a principle is not sufficient.** Explain how it operates in your ecosystem and what change it helps explain. Support your explanation with research findings.
+
+#### 4. How are the changes connected?
+
+Present and explain two causal diagrams:
+
+1.  **Before invasion:** Relevant components and relationships without the invader.
+2.  **After invasion:** How the invader changes those components and relationships.
+
+Use the diagrams to explain direct effects, indirect effects, and feedback loops where relevant. See the diagram requirements below.
+
+#### 5. How could the invasion be managed?
+
+Describe **one specific management strategy** used or proposed for your system. Explain:
+
+- What the strategy does.
+- Where it acts in your causal diagram.
+- Its predicted direct and indirect effects.
+- Important limitations or effects on other organisms.
+
+You may annotate the invaded-system diagram to show where management acts. A third full diagram is not required.
+
+#### 6. What would recovery look like?
+
+Answer:
+
+> **If this management strategy reduces the invasive species, which changes should reverse, which might persist, and why?**
+
+Do not assume removing the invader automatically restores the original ecosystem. Consider whether altered environmental conditions, lost native species, or feedback loops could limit recovery. Use evidence where available and identify predictions that have not been tested.
+
+#### 7. What is the main takeaway?
+
+End with a concise explanation of what your case demonstrates about how invasions change ecological systems.
+
+### Causal diagram requirements
+
+Include enough of the system to explain its important changes without making the diagrams cluttered.
+
+#### Include the important components
+
+Show organisms, resources, and environmental factors needed to explain the invasion’s effects. These might include native competitors, prey, predators, vegetation, nutrients, light, soil conditions, or disturbance.
+
+#### Show causal relationships
+
+Use arrows to show how one component affects another.
+
+- Label arrows so the audience can interpret each relationship.
+- If you use **+** and **−**, explain that they indicate whether an increase in one component tends to increase or decrease another. They do not mean “good” and “bad.”
+- Include important indirect effects.
+- Include feedback loops where relevant and supported; do not force one into your diagram without evidence.
+
+#### Make the comparison clear
+
+Keep the layout and shared components consistent between diagrams. Highlight relationships added, removed, strengthened, or weakened by invasion. Explain your visual conventions with labels or a legend.
+
+Label the first diagram **“Before invasion”** or **“Expected system without the invader,”** depending on the evidence.
+
+#### Explain and support your diagrams
+
+Walk the audience through important pathways. Do not simply display the diagrams and move on. Cite sources supporting the relationships and distinguish established relationships from uncertain or predicted ones.
+
+Diagrams will be evaluated on **ecological accuracy, inclusion of important components and relationships, and clarity of explanation**, rather than the number of boxes or arrows.
+
+### Research and citations
+
+Use a minimum of:
+
+- **Two popular science articles.**
+- **Two peer-reviewed journal articles.**
+
+Popular science articles can introduce the case and its significance. Peer-reviewed articles should support ecological explanations, causal relationships, and management predictions. You may also use reliable government, university, and conservation organization resources. Use additional sources as needed.
+
+#### On your slides
+
+- Include author–year citations wherever you use information from a source.
+- Credit photographs, diagrams, and other visuals.
+- Include complete references on the final slide or slides.
+- Use a consistent reference format. Links alone are not sufficient. A good choice is the CSE name-year format.
+  - [The CSE Manual Online - Citation Quick Guide](https://www.csemanual.org/Tools/CSE-Citation-Quick-Guide.html)
+
+Understand the evidence you present and be prepared to explain how a study supports your conclusions.
+
+### Slide deck evaluation
+
+The slide deck carries the largest share of assignment points. It will be evaluated on:
+
+- **Ecological explanation:** Accurate application of at least three ecological principles to explain system changes.
+- **Causal diagrams and systems thinking:** Important components and relationships, direct and indirect effects, relevant feedback loops, and a clear comparison before and after invasion.
+- **Evidence and citations:** Appropriate sources, accurate interpretation of research, and complete citations and references.
+- **Management and recovery:** A specific intervention and supported reasoning about which changes may reverse or persist.
+- **Visual clarity and organization:** Readable slides and diagrams that support a coherent ecological story.
+
+## 4. Oral Presentation
+
+Your group has **12 minutes to present**, followed by approximately **20 minutes of questions and discussion**.
+
+### Presentation expectations
+
+- Organize your presentation around a clear explanation of how the invasion changes the ecosystem.
+
+- Explain your causal diagrams, guiding the audience through the important relationships.
+
+- Use readable visuals and explain unfamiliar terms.
+
+- Rehearse together and stay within the time limit.
+
+- You may include brief videos or other media totaling up to **90 seconds**, included in your presentation time.
+
+- Every member must explain a substantive portion of the presentation. Equal speaking time is not required.
+
+- All members should be prepared to contribute to answering audience questions.
+
+### Oral presentation scoring
+
+**Eighty percent of the oral presentation score is shared by the group**, based on:
+
+- Clear organization and a coherent ecological story.
+
+- Effective explanation of causal diagrams and ecological mechanisms.
+
+- Appropriate pacing and adherence to the time limit.
+
+- Thoughtful responses to audience questions.
+
+**Twenty percent is scored individually**, based on how clearly each student explains their portion and demonstrates understanding of the material.
+
+The slide deck score evaluates your submitted content and analysis. The oral presentation score evaluates how effectively you explain and discuss that work.
+
+### Group contributions and peer evaluation
+
+Every student must contribute meaningfully to the group’s research, analysis, preparation, and delivery.
+
+After presenting, each student must submit a brief **confidential self- and peer evaluation on D2L**, describing their own contributions and those of each teammate. Use specific examples to explain any substantial imbalance in contributions.
+
+The instructor will use these evaluations, along with other evidence of participation, to assess contributions. A student who contributes substantially less than their teammates may receive reduced scores on group-graded components. Peer ratings do not automatically determine grades.
+
+## 5. Discussion Questions
+
+Each student must ask **four relevant questions across the 8–9 presentations** for full credit. This averages approximately one question per presentation day. You may distribute questions across days; you do not need to ask one during every presentation.
+
+Useful questions might:
+
+- Ask presenters to explain an ecological mechanism.
+- Explore an indirect effect or feedback loop.
+- Clarify evidence behind a claim.
+- Examine a relationship in a causal diagram.
+- Consider management effects or barriers to recovery.
+
+Listen carefully and build on the presentation and discussion.
+
+Each qualifying question earns **one-quarter of the points in this category**, up to four questions for full credit. This is an individual score.
+
+## Final checklist
+
+- Have we defined a specific ecosystem and geographic area?
+- Have we explained how the invasion occurred?
+- Have we applied at least three ecological principles?
+- Do both diagrams include important components and relationships?
+- Have we explained direct effects, indirect effects, and relevant feedback loops?
+- Have we shown where a management strategy acts?
+- Have we explained which changes might reverse or persist?
+- Do our sources support our explanations and predictions?
+- Are citations and complete references included?
+- Have we rehearsed together within the time limit?
