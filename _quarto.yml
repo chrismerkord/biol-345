@@ -23,6 +23,8 @@ website:
         text: Lectures
       - href: labs/index.qmd
         text: Labs
+      - href: assignments/index.qmd
+        text: Assignments
       - href: guides/index.qmd
         text: Guides
       
