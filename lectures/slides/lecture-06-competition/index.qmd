@@ -5,7 +5,7 @@ description: How competition for limited resources shapes populations, species c
 date: 2026-10-20
 image: images/competition-prairie-grasses.png
 author: Chris Merkord
-sort: 5
+sort: 6
 ---
 
 ## Competition in our prairie
@@ -21,7 +21,7 @@ sort: 5
 :::
 
 ::: column
-![Big bluestem (*Andropogon gerardii*, left) and smooth brome (*Bromus inermis*, right), showing distinctive seed heads and schematic root systems. Big bluestem develops extensive deep roots, while smooth brome spreads through horizontal rhizomes. AI-generated illustration; not to scale.](images/competition-prairie-grasses.png){fig-alt="Side-by-side botanical illustrations of big bluestem and smooth brome above and below ground. Big bluestem has three-branched, turkey-foot seed heads and a deep fibrous root system. Smooth brome has open, branching seed heads and spreading underground rhizomes connecting multiple shoots, with fibrous roots below." width="80%"}
+![Big bluestem (*Andropogon gerardii*, left) and smooth brome (*Bromus inermis*, right), showing distinctive seed heads and schematic root systems. Big bluestem develops extensive deep roots, while smooth brome spreads through horizontal rhizomes. AI-generated illustration; not to scale.](images/competition-prairie-grasses.png){fig-alt="Side-by-side botanical illustrations of big bluestem and smooth brome above and below ground. Big bluestem has three-branched, turkey-foot seed heads and a deep fibrous root system. Smooth brome has open, branching seed heads and spreading underground rhizomes connecting multiple shoots, with fibrous roots below." fig-align="center" width="70%"}
 :::
 :::::
 
@@ -179,7 +179,7 @@ Answer: Brome is increasing, while bluestem has zero instantaneous growth. It do
 ## Where does big bluestem have zero growth?
 
 ::::: columns
-::: column
+::: {.column width="60%"}
 - A [zero-growth isocline]{.keyword} connects population combinations where one species neither increases nor decreases.
 - For big bluestem, with $N_1>0$ and $r_1>0$:
 
@@ -193,7 +193,7 @@ $$
 - On the line: bluestem’s growth rate is zero at that moment; brome’s growth rate may not be.
 :::
 
-::: column
+::: {.column width="40%"}
 ![Big bluestem’s zero-growth isocline for $K_1=100$ and $\alpha_{12}=0.5$. Horizontal arrows indicate bluestem increasing below the line and decreasing above it.](images/bluestem-zero-growth-isocline.svg){fig-alt="Phase plane with big bluestem density on the horizontal axis and smooth brome density on the vertical axis. A blue zero-growth isocline connects the vertical intercept at 200, labeled K1/alpha12, to the horizontal intercept at 100, labeled K1. Horizontal arrows point right below the line and left above it, indicating increasing and decreasing bluestem density, respectively." width="70%"}
 :::
 :::::
@@ -279,7 +279,7 @@ Answer: No. The intersection identifies an equilibrium, but we must examine near
 :::
 
 ::: column
-[![Stable coexistence with $K_1=K_2=100$ and $\alpha_{12}=\alpha_{21}=0.5$. Trajectories converge on approximately 66.7 tillers per square metre for each species. Highlighted trajectories show each species recovering from low density.](images/stable-coexistence.svg){width="70%"}](Phase%20portrait%20with%20big%20bluestem%20density%20horizontally%20and%20smooth%20brome%20density%20vertically.%20Blue%20and%20orange%20zero-growth%20isoclines%20intersect%20at%20the%20stable%20equilibrium%20(66.7,%2066.7).%20Directional%20arrows%20and%20trajectories%20from%20several%20starting%20points%20converge%20on%20this%20intersection.%20Highlighted%20paths%20show%20bluestem%20recovering%20from%205%20tillers%20per%20square%20metre%20with%20brome%20initially%20at%20100,%20and%20brome%20recovering%20from%205%20with%20bluestem%20initially%20at%20100.)
+[![Stable coexistence with \$K_1=K_2=100\$ and \$\\alpha\_{12}=\\alpha\_{21}=0.5\$. Trajectories converge on approximately 66.7 tillers per square metre for each species. Highlighted trajectories show each species recovering from low density.](images/stable-coexistence.svg){width="70%"}](Phase%20portrait%20with%20big%20bluestem%20density%20horizontally%20and%20smooth%20brome%20density%20vertically.%20Blue%20and%20orange%20zero-growth%20isoclines%20intersect%20at%20the%20stable%20equilibrium%20(66.7,%2066.7).%20Directional%20arrows%20and%20trajectories%20from%20several%20starting%20points%20converge%20on%20this%20intersection.%20Highlighted%20paths%20show%20bluestem%20recovering%20from%205%20tillers%20per%20square%20metre%20with%20brome%20initially%20at%20100,%20and%20brome%20recovering%20from%205%20with%20bluestem%20initially%20at%20100.)
 :::
 :::::
 
