@@ -1,0 +1,10 @@
+---
+title: "Competition"
+subtitle: "Lecture 6"
+description: How competition for limited resources shapes populations, species coexistence, and ecological communities.
+date: 2026-10-20
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Cades-cove-deer-fighting-tn1.jpg/330px-Cades-cove-deer-fighting-tn1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
+author: Chris Merkord
+sort: 5
+---
+
