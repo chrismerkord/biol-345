@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="648pt" height="576pt" viewBox="0 0 648 576" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-21T15:19:10.967010</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 576 
+L 648 576 
+L 648 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 109.44 518.4 
+L 616.32 518.4 
+L 616.32 11.52 
+L 109.44 11.52 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="text_1">
+     <!-- Big bluestem density, $N_1$ -->
+     <g transform="translate(263.44 546.56)">
+      <text>
+       <tspan x="0" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">B</tspan>
+       <tspan x="10.976562" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">i</tspan>
+       <tspan x="15.421875" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">g</tspan>
+       <tspan x="25.578125" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'"> </tspan>
+       <tspan x="30.664062" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">b</tspan>
+       <tspan x="40.820312" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">l</tspan>
+       <tspan x="45.265625" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">u</tspan>
+       <tspan x="55.40625" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">e</tspan>
+       <tspan x="65.25" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">s</tspan>
+       <tspan x="73.585938" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">t</tspan>
+       <tspan x="79.859375" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">e</tspan>
+       <tspan x="89.703125" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">m</tspan>
+       <tspan x="105.289062" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'"> </tspan>
+       <tspan x="110.375" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">d</tspan>
+       <tspan x="120.53125" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">e</tspan>
+       <tspan x="130.375" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">n</tspan>
+       <tspan x="140.515625" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">s</tspan>
+       <tspan x="148.851562" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">i</tspan>
+       <tspan x="153.296875" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">t</tspan>
+       <tspan x="159.570312" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">y</tspan>
+       <tspan x="169.039062" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">,</tspan>
+       <tspan x="174.125" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'"> </tspan>
+       <tspan x="179.210938" y="-0.84375" style="font-style: oblique; font-size: 16px; font-family: 'DejaVu Sans'">N</tspan>
+       <tspan x="191.179688" y="1.78125" style="font-size: 11.2px; font-family: 'DejaVu Sans'">1</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="text_2">
+     <!-- Smooth brome density, $N_2$ -->
+     <g transform="translate(90.08 371.12) rotate(-90)">
+      <text>
+       <tspan x="0" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">S</tspan>
+       <tspan x="10.15625" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">m</tspan>
+       <tspan x="25.742188" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">o</tspan>
+       <tspan x="35.53125" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">o</tspan>
+       <tspan x="45.320312" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">t</tspan>
+       <tspan x="51.59375" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">h</tspan>
+       <tspan x="61.734375" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'"> </tspan>
+       <tspan x="66.820312" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">b</tspan>
+       <tspan x="76.976562" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">r</tspan>
+       <tspan x="83.554688" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">o</tspan>
+       <tspan x="93.34375" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">m</tspan>
+       <tspan x="108.929688" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">e</tspan>
+       <tspan x="118.773438" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'"> </tspan>
+       <tspan x="123.859375" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">d</tspan>
+       <tspan x="134.015625" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">e</tspan>
+       <tspan x="143.859375" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">n</tspan>
+       <tspan x="154" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">s</tspan>
+       <tspan x="162.335938" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">i</tspan>
+       <tspan x="166.78125" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">t</tspan>
+       <tspan x="173.054688" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">y</tspan>
+       <tspan x="182.523438" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'">,</tspan>
+       <tspan x="187.609375" y="-0.84375" style="font-size: 16px; font-family: 'DejaVu Sans'"> </tspan>
+       <tspan x="192.695312" y="-0.84375" style="font-style: oblique; font-size: 16px; font-family: 'DejaVu Sans'">N</tspan>
+       <tspan x="204.664062" y="1.78125" style="font-size: 11.2px; font-family: 'DejaVu Sans'">2</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 109.44 518.4 
+L 109.44 11.52 
+" style="fill: none; stroke: #000000; stroke-width: 1.4; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 109.44 518.4 
+L 616.32 518.4 
+" style="fill: none; stroke: #000000; stroke-width: 1.4; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 241.04375 143.12375 
+Q 220.953175 123.033175 203.076193 105.156193 
+" style="fill: none; stroke: #333333; stroke-width: 2.8; stroke-linecap: round"/>
+    <path d="M 206.187463 114.490003 
+L 203.076193 105.156193 
+L 212.410003 108.267463 
+z
+" style="fill: #333333; stroke: #333333; stroke-width: 2.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'" transform="translate(162.83817 187.528603)">Bluestem decreases</text>
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'" transform="translate(173.061491 201.716818)">Brome increases</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 362.88 151.445362 
+Q 362.88 123.032998 362.88 97.751129 
+" style="fill: none; stroke: #333333; stroke-width: 2.8; stroke-linecap: round"/>
+    <path d="M 358.48 106.551129 
+L 362.88 97.751129 
+L 367.28 106.551129 
+z
+" style="fill: #333333; stroke: #333333; stroke-width: 2.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'" transform="translate(301.839258 187.528603)">Bluestem unchanged</text>
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'" transform="translate(314.987891 201.716818)">Brome increases</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 484.71625 143.12375 
+Q 504.806825 123.033175 522.683807 105.156193 
+" style="fill: none; stroke: #333333; stroke-width: 2.8; stroke-linecap: round"/>
+    <path d="M 513.349997 108.267463 
+L 522.683807 105.156193 
+L 519.572537 114.490003 
+z
+" style="fill: #333333; stroke: #333333; stroke-width: 2.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="504.8064" y="187.528603" transform="rotate(-0 504.8064 187.528603)">Both increase</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 249.365363 275.0976 
+Q 220.952998 275.0976 195.671129 275.0976 
+" style="fill: none; stroke: #333333; stroke-width: 2.8; stroke-linecap: round"/>
+    <path d="M 204.471129 279.4976 
+L 195.671129 275.0976 
+L 204.471129 270.6976 
+z
+" style="fill: #333333; stroke: #333333; stroke-width: 2.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'" transform="translate(162.83817 339.592603)">Bluestem decreases</text>
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'" transform="translate(168.189264 353.780818)">Brome unchanged</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 476.394637 275.0976 
+Q 504.807002 275.0976 530.088871 275.0976 
+" style="fill: none; stroke: #333333; stroke-width: 2.8; stroke-linecap: round"/>
+    <path d="M 521.288871 270.6976 
+L 530.088871 275.0976 
+L 521.288871 279.4976 
+z
+" style="fill: #333333; stroke: #333333; stroke-width: 2.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'" transform="translate(448.637884 339.592603)">Bluestem increases</text>
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'" transform="translate(452.042064 353.780818)">Brome unchanged</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 241.04375 407.07145 
+Q 220.953175 427.162025 203.076193 445.039007 
+" style="fill: none; stroke: #333333; stroke-width: 2.8; stroke-linecap: round"/>
+    <path d="M 212.410003 441.927737 
+L 203.076193 445.039007 
+L 206.187463 435.705197 
+z
+" style="fill: #333333; stroke: #333333; stroke-width: 2.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="220.9536" y="491.656603" transform="rotate(-0 220.9536 491.656603)">Both decrease</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 362.88 398.749838 
+Q 362.88 427.162202 362.88 452.444071 
+" style="fill: none; stroke: #333333; stroke-width: 2.8; stroke-linecap: round"/>
+    <path d="M 367.28 443.644071 
+L 362.88 452.444071 
+L 358.48 443.644071 
+z
+" style="fill: #333333; stroke: #333333; stroke-width: 2.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'" transform="translate(301.839258 491.656603)">Bluestem unchanged</text>
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'" transform="translate(313.040977 505.844818)">Brome decreases</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 484.71625 407.07145 
+Q 504.806825 427.162025 522.683807 445.039007 
+" style="fill: none; stroke: #333333; stroke-width: 2.8; stroke-linecap: round"/>
+    <path d="M 519.572537 435.705197 
+L 522.683807 445.039007 
+L 513.349997 441.927737 
+z
+" style="fill: #333333; stroke: #333333; stroke-width: 2.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'" transform="translate(448.637884 491.656603)">Bluestem increases</text>
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'" transform="translate(454.967377 505.844818)">Brome decreases</text>
+   </g>
+  </g>
+ </g>
+</svg>
