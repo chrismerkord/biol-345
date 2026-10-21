@@ -1,0 +1,145 @@
+---
+title: "Invasion! Presentation Workshop"
+subtitle: "Exploring connections within ecosystems"
+short-title: "Invasion! Workshop"
+course-label: "BIOL 345 | Principles of Ecology"
+document-context: "Merkord | Fall 2026"
+footer-logo: ../../tlm-styles/logos/msm-vertical-black-logo.png
+format:
+  typst:
+    template-partials:
+      - ../../tlm-styles/typst/partials/page.typ
+    include-in-header:
+      - file: ../../tlm-styles/typst/page-layout.typ
+      - file: ../../tlm-styles/typst/page-layout-header.typ
+---
+
+```{=typst}
+#let answerbox(height: 0.65in) = block(
+  width: 100%,
+  height: height,
+  stroke: 0.4pt,
+  inset: 8pt,
+  breakable: false,
+)[]
+```
+
+## 1. Group Information
+
+**Group name (as listed in D2L):**
+
+```{=typst}
+#answerbox(height: 0.35in)
+```
+
+**Presentation date and check-in date (one week prior):**
+
+```{=typst}
+#answerbox(height: 0.45in)
+```
+
+Fill in the next part after completing the rest of this assignment. 
+
+**What will each member complete before your next group meeting?**
+
+If a group member is absent for this assignment, write their name and fill in the rest of the table later when you talk to them.
+
+```{=typst}
+#table(
+  columns: (1.3fr, 3fr, 1fr),
+  rows: (auto, 0.6in, 0.6in, 0.6in, 0.6in),
+  inset: 7pt,
+  stroke: 0.4pt,
+  table.header(
+    [*Group member*], [*Specific task or product*], [*Deadline*],
+  ),
+  [], [], [],
+  [], [], [],
+  [], [], [],
+  [], [], [],
+)
+```
+
+**When and where will you meet next, and what will you accomplish together?**
+
+```{=typst}
+#answerbox(height: 0.8in)
+#pagebreak()
+```
+
+
+## 2. Species, ecosystem, and ecological focus
+
+**Common and scientific names of your invasive species:**
+
+```{=typst}
+#answerbox(height: 0.45in)
+```
+
+**Where is it native, and where has it been introduced?**
+
+```{=typst}
+#answerbox(height: 0.6in)
+```
+
+**Which ecosystem or geographic region will you focus on, and why?**
+
+```{=typst}
+#answerbox(height: 0.7in)
+```
+
+**Identify two or three ecological relationships you will investigate.**
+
+Describe how your invasive species affects—or is affected by—other organisms, resources, or environmental conditions.
+
+```{=typst}
+#answerbox(height: 2.5in)
+```
+
+**Choose one relationship above. How could it indirectly affect another organism, resource, or environmental condition?**
+
+```{=typst}
+#answerbox(height: 1.1in)
+#pagebreak()
+```
+
+## 3. Draft systems diagram
+
+Sketch your system below. Label arrows, include an indirect effect, and mark uncertain connections with a question mark. Include a feedback loop if appropriate.
+
+```{=typst}
+#pagebreak()
+```
+
+## 4. Research needs and remaining questions
+
+**Choose two relationships in your diagram that you need to verify or understand better. Write a research question for each.**
+
+Example: Does Japanese knotweed reduce native plant growth by shading plants, changing soil conditions, or both?
+
+**Question 1:**
+
+```{=typst}
+#answerbox(height: 1.5in)
+```
+
+**Question 2:**
+
+```{=typst}
+#answerbox(height: 1.5in)
+```
+
+**Which part of your system is hardest to explain, and what makes it unclear?**
+
+```{=typst}
+#answerbox(height: 1in)
+```
+
+**Find one peer-reviewed journal article that may help answer one of your questions.**
+
+Write the in-text citation, plus the journal name, volume number, and page/issue number.
+
+
+```{=typst}
+#answerbox(height: 1in)
+```
