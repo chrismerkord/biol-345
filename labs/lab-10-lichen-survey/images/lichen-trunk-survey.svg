@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="350" viewBox="0 0 380 350" role="img" aria-labelledby="title desc">
+<title id="title">Trunk survey heights</title>
+<desc id="desc">Survey all sides of the trunk from 1.0 to 1.5 meters above ground. Measure circumference at 1.37 meters.</desc>
+<defs><clipPath id="trunk"><path d="M105 19H173L177 267Q179 293 204 309H76Q101 293 103 267Z"/></clipPath></defs>
+<rect width="380" height="350" fill="white"/>
+<path d="M105 19H173L177 267Q179 293 204 309H76Q101 293 103 267Z" fill="#e9dfd3"/>
+<g clip-path="url(#trunk)">
+<path d="M70 69H210V149H70Z" fill="#b9dcd5"/>
+<path d="M70 69H210M70 149H210" stroke="#37796e" stroke-width="2"/>
+<path d="M70 89.8H210" stroke="#242424" stroke-width="2.5" stroke-dasharray="6 4"/>
+</g>
+<path d="M105 19L103 267Q101 293 76 309H204Q179 293 177 267L173 19" fill="none" stroke="#59483a" stroke-width="2"/>
+<path d="M47 309H224" stroke="#59483a" stroke-width="2"/>
+<g fill="none" stroke-width="1.5">
+<path d="M175 69H207L224 48H240M176 149H240" stroke="#37796e"/>
+<path d="M175 89.8H240" stroke="#242424" stroke-dasharray="6 4"/>
+</g>
+<g font-family="system-ui, sans-serif" font-size="17" fill="#202622">
+<text x="249" y="54">1.5 m</text>
+<text x="249" y="95">1.37 m</text>
+<text x="249" y="155">1.0 m</text>
+<text x="249" y="315">Ground</text>
+</g>
+</svg>
