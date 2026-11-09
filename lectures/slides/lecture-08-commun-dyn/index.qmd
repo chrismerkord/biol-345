@@ -1,0 +1,9 @@
+---
+title: "Community Dynamics"
+subtitle: "Lecture 8"
+description: How the structure of ecological communities changes over time.
+date: 2026-11-09
+image: https://upload.wikimedia.org/wikipedia/commons/c/c8/Oriental_garden_lizard_eats_robber_fly.jpg
+author: Chris Merkord
+sort: 8
+---
