@@ -1,0 +1,67 @@
+---
+title: "Lichen Survey Worksheet"
+subtitle: "Comparing lichen richness in parkland and woodland"
+short-title: "Lichen Survey"
+course-label: "BIOL 345 | Principles of Ecology"
+document-context: "Merkord | Fall 2026"
+footer-logo: ../../tlm-styles/logos/msm-vertical-black-logo.png
+format:
+  typst:
+    template-partials:
+      - ../../tlm-styles/typst/partials/page.typ
+    include-in-header:
+      - file: ../../tlm-styles/typst/page-layout.typ
+      - file: ../../tlm-styles/typst/page-layout-header.typ
+---
+
+```{=typst}
+#let answerbox(height: 0.65in) = block(
+  width: 100%,
+  height: height,
+  stroke: 0.4pt,
+  inset: 8pt,
+  breakable: false,
+)[]
+```
+
+**Name:** ______________________________________  **Group ID:** ____________
+
+## Before sampling
+
+**1. Predict how mean lichen richness will compare between maintained parkland and woodland. Give an ecological reason for your prediction.**
+
+```{=typst}
+#answerbox(height: 1.5in)
+```
+
+## After sampling
+
+**2. Sketch the dashboard graph. Label both axes and record the mean lichen richness and number of trees sampled in each habitat.**
+
+```{=typst}
+#answerbox(height: 3.5in)
+```
+
+**3. Does the observed pattern support your prediction? Use the class results to explain.**
+
+```{=typst}
+#answerbox(height: 1.5in)
+```
+
+**4. Choose one environmental difference between the habitats. Explain how it could favor some lichens and limit others.**
+
+```{=typst}
+#answerbox(height: 1.5in)
+```
+
+**5. Suppose both habitats had the same mean richness. Could they still support different lichen communities? Explain.**
+
+```{=typst}
+#answerbox(height: 1.5in)
+```
+
+**6. How might differences in the trees themselves help explain the results? Give one example and suggest how to address it in a future study.**
+
+```{=typst}
+#answerbox(height: 1.5in)
+```
