@@ -7,3 +7,145 @@ image: https://upload.wikimedia.org/wikipedia/commons/c/c8/Oriental_garden_lizar
 author: Chris Merkord
 sort: 8
 ---
+
+## A [community]{.keyword} is made up of interacting populations
+
+The populations live in the same area.
+
+## A [disturbance]{.keyword} disrupts a community
+
+It can kill organisms, change resource availability, or alter habitat.
+
+**Example** The 1988 Yellowstone fires killed trees and opened the canopy.
+
+## [Succession]{.keyword} is a change in which species make up a community
+
+After the Yellowstone fires, herbs and shrubs grew early, and lodgepole pine later became dominant in many stands.
+
+## [Primary succession]{.keyword} starts on newly exposed surfaces
+
+**Primary** Plants colonize bare rock after a lava flow.
+
+**[Secondary succession]{.keyword}** Plants regrow after a fire where soil remains.
+
+## Early colonists can help, hinder, or have little effect on later species
+
+[Facilitation]{.keyword} (+) · [Inhibition]{.keyword} (−) · [Tolerance]{.keyword} (0)
+
+![Figure 9 from Poorter et al. (2023), *Successional theories*](https://onlinelibrary.wiley.com/cms/asset/3562c39c-c54e-4619-b121-c3947021cfa3/brv12995-fig-0009-m.jpg){fig-alt="Three pathways show how early colonists can help, hinder, or have little effect on the establishment of later species." width="80%"}
+
+## A [food chain]{.keyword} shows who eats whom
+
+Aspen → Elk → Wolves
+
+Each position is a [trophic level]{.keyword}. Arrows point from food to consumer.
+
+## Elk browsing limits young aspen
+
+In the simulation, aspen stem density increased inside the fence that excluded elk and stayed low in the unfenced control.
+
+## A [trophic cascade]{.keyword} carries effects across trophic levels
+
+**Wolves increase → Elk decrease → Aspen increase**
+
+Wolves can benefit aspen indirectly by reducing browsing.
+
+## A [behavioral cascade]{.keyword} starts when prey change their behavior
+
+Elk may browse less where they perceive greater predation risk.
+
+**Discuss** What would you measure to tell whether aspen benefited because there were fewer elk or because elk browsed in different places?
+
+## An [ecosystem engineer]{.keyword} changes habitat for other species
+
+Beaver dams raise water levels, which can improve growing conditions for willows.
+
+## An indirect effect can reach beyond the food chain
+
+**Less browsing → More woody vegetation → More nesting habitat**
+
+A change in elk browsing can affect birds that nest in aspen and willows.
+
+## [Top-down control]{.keyword} starts with consumers
+
+More predators → Fewer herbivores → Less grazing on plants
+
+## [Bottom-up control]{.keyword} starts with resources
+
+More nutrients → More algae → More food for grazers
+
+## What allows a longer [food chain]{.keyword}?
+
+- **Productivity hypothesis** More production per unit area
+- **Ecosystem-size hypothesis** More area
+- **Productive-space hypothesis** More area and more production per unit area
+
+## [Community stability]{.keyword} describes how a community persists through change
+
+A community can be stable by fluctuating little over time or by recovering after a [disturbance]{.keyword}.
+
+A disturbance is an event that disrupts a community, such as a fire or hurricane.
+
+## [Resistance]{.keyword} is the ability to withstand disturbance
+
+High resistance means the community changes little when the disturbance occurs.
+
+## [Return time]{.keyword} is how long the community takes to settle after disturbance
+
+A short return time means the community reaches a steady condition quickly.
+
+## [Resilience]{.keyword} is how closely the recovered community resembles its original state
+
+In SimUText, resilience reflects which species are present and how abundant they are after recovery.
+
+**Quick check** A fire kills most lodgepole pines in a stand. Decades later, pine abundance is back to its prefire level. What does this tell us about resistance and resilience?
+
+::: {.notes}
+Pine abundance showed low resistance and high resilience. We would need information on other species to assess the resilience of the whole community.
+:::
+
+## [Alternative stable states]{.keyword} are different communities that can persist under the same conditions
+
+A [threshold]{.keyword} is a point beyond which a change can shift the community into a different state.
+
+**Example** Nutrient inputs can push a clear lake into a turbid state that persists even after nutrient inputs drop.
+
+## [Connectance]{.keyword} is the fraction of possible feeding links that exist
+
+A [food web]{.keyword} shows who eats whom in a community. Each feeding relationship is a link.
+
+$$
+\text{Connectance} = \frac{\text{observed links}}{\text{possible links}}
+$$
+
+## Count observed and possible feeding links separately
+
+One predator eats two herbivores. Each herbivore eats one of four plant species. These are the only feeding links.
+
+**Quick check** What is the [connectance]{.keyword}?
+
+::: {.notes}
+There are four observed links and seven species. SimUText counts 7² = 49 possible links, including one potential self-link per species. There is no cannibalism in this example, so none of those self-links appears in the numerator. Connectance is 4/49 ≈ 0.082.
+:::
+
+## More feeding links can make a [food web]{.keyword} more robust
+
+**Robustness to species loss** is the ability to lose a species without triggering further losses.
+
+A consumer with several food sources may persist if one disappears.
+
+## A [dominant species]{.keyword} makes up a large share of a community
+
+Dominance can reflect high abundance or high biomass.
+
+**Example** Redwoods make up much of the forest’s biomass and shape conditions for understory plants.
+
+## A [keystone species]{.keyword} has a large effect relative to its abundance
+
+**Example** Removing sea stars can let mussels crowd out other species, even when the sea stars account for little of the community’s biomass.
+
+**Quick check** If removing a species has a large effect, what else do you need to know to decide whether it is a keystone?
+
+::: {.notes}
+Ask how abundant the species was or what share of the biomass it made up before removal. Compare the sea star with the redwood. Both can have a large total impact, but the sea star’s impact is large relative to its share of the community.
+:::
