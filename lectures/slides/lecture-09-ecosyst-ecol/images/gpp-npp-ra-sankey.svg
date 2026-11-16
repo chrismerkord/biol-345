@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="360" viewBox="0 0 540 360" role="img" aria-labelledby="title desc">
+  <title id="title">GPP splits into NPP and Ra</title>
+  <desc id="desc">Gross primary production of 100 kilojoules per day splits into net primary production of 60 and autotrophic respiration of 40. Band thicknesses are proportional to energy flow. In the simplified cues, sunlight supports conversion of carbon dioxide to sugar, sugar supports plant growth, and respiration breaks down sugar, releasing carbon dioxide and heat.</desc>
+  <defs>
+    <path id="cue-arrow" d="M0 0h26m-7-6 7 6-7 6" fill="none" stroke="#263644" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </defs>
+  <path fill="#23486A" d="M10 108 H215 V208 H10 Z"/>
+  <path fill="#166C65" d="M215 108 H508 L530 138 L508 168 H215 Z"/>
+  <path fill="#A34523" d="M215 168 C289 168 283 237 352 237 H508 L530 257 L508 277 H352 C283 277 289 208 215 208 Z"/>
+  <g fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="25" text-anchor="middle">
+    <text x="111" y="166"><tspan font-weight="bold">GPP</tspan><tspan dx="8">100 kJ/day</tspan></text>
+    <text x="415" y="146"><tspan font-weight="bold">NPP</tspan><tspan dx="8">60 kJ/day</tspan></text>
+    <text x="415" y="265"><tspan font-weight="bold">Ra</tspan><tspan dx="8">40 kJ/day</tspan></text>
+  </g>
+  <g fill="#263644" font-family="Arial, Helvetica, sans-serif" font-size="22" text-anchor="middle">
+    <text x="51" y="86">CO₂</text>
+    <use href="#cue-arrow" x="82" y="79"/>
+    <text x="151" y="86">sugar</text>
+    <text x="365" y="86">sugar</text>
+    <use href="#cue-arrow" x="402" y="79"/>
+    <text x="351" y="320">sugar</text>
+    <use href="#cue-arrow" x="388" y="313"/>
+    <text x="447" y="320">CO₂</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5">
+    <g stroke="#9B6107" transform="translate(95 49)">
+      <circle r="6"/>
+      <path d="M0-13v3m0 20v3m-13-13h3m20 0h3m-22-9 2 2m14 14 2 2m0-18-2 2m-14 14-2 2"/>
+    </g>
+    <g stroke="#166C65" transform="translate(457 87)">
+      <path d="M-9 0H9M0 0V-10M0-6C-8-6-12-10-12-17C-5-17 0-13 0-6ZM0-10C0-17 4-21 12-21C12-14 7-10 0-10Z"/>
+    </g>
+    <g stroke="#A34523" transform="translate(488 313)">
+      <path d="M-7 7c6-4-3-7 2-13M0 7c6-4-3-7 2-13m5 13c6-4-3-7 2-13"/>
+    </g>
+  </g>
+</svg>
