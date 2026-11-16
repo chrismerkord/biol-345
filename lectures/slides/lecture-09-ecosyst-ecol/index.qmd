@@ -273,3 +273,26 @@ Fill two bottles with water from the same lake or ocean sample. Measure [dissolv
 - The decrease in O₂ estimates **Re**.
 :::
 :::::
+
+Here we estimate GPP from oxygen production and report it in mg O₂/L/h, but we can also estimate it from the rate of CO₂ uptake by photosynthesis.
+
+## At the compensation depth, photosynthesis and respiration balance
+
+- **Shallower water:** GPP \> Re, so NEP is positive.
+- [**Compensation depth**]{.keyword}**:** GPP = Re, so NEP is zero.
+- **Deeper water:** GPP \< Re, so NEP is negative.
+
+## Northern plant growth draws down atmospheric CO₂ in summer
+
+::::: columns
+::: column
+- **Growing season.** Across northern land ecosystems, photosynthesis takes up more CO₂ than respiration releases.
+- **Colder months.** Photosynthesis slows, and respiration continues to release CO₂.
+
+**Read the figure.** Which site has the larger seasonal swing? How might its proximity to northern forests and tundra help explain the difference?
+:::
+
+::: column
+![Average seasonal CO₂ cycles at Barrow, Alaska (71°N), and Mauna Loa, Hawaiʻi (20°N). The long-term rise has been removed to show the seasonal pattern. [Hu et al. (2026), Fig. 2a](https://doi.org/10.1029/2026GB009375).](images/hu-et-al-2026-seasonal-co2.png){fig-alt="Monthly CO₂ curves for two time periods at each site. CO₂ falls during the Northern Hemisphere growing season at both sites, with a larger spring-to-late-summer drop at Barrow."}
+:::
+:::::
