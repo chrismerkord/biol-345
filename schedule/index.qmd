@@ -134,8 +134,6 @@ Last Updated: 2026-11-02
   - Nov 16
   - []{style="background-color: var(--bs-warning-bg-subtle)"} {{< fa person-chalkboard >}}Invasion: Lionfish
     
-    {{< fa person-chalkboard >}} Invasion: Hammerhead Worm
-    
     Lecture: Ecosystem Ecology part 1
   - []{style="background-color: var(--bs-warning-bg-subtle)"} {{< fa person-chalkboard >}}Invasion: Asian Carp
   
@@ -155,15 +153,18 @@ Last Updated: 2026-11-02
     
     Climate Change part 1
   - []{style="background-color: var(--bs-warning-bg-subtle)"} {{< fa person-chalkboard >}}Invasion: European Starlings
-    
-    {{< fa person-chalkboard >}} Invasion: Feral Hogs
-  - Lab Practical: iNaturalist Presentations
+  
+  - []{style="background-color: var(--bs-warning-bg-subtle)"} {{< fa person-chalkboard >}} Invasion: Hammerhead Worm
+  
+  Lab Practical: Career Reflection Activity
   - Climate Change
 - 
   - 16
   - Dec 7
   - Climate Change
-  - Climate Change
+  - []{style="background-color: var(--bs-warning-bg-subtle)"} {{< fa person-chalkboard >}} Invasion: Feral Hogs
+  
+    Climate Change
   - []{style="background-color: var(--bs-secondary-bg-subtle)"} Study Day: No Classes
   - []{style="background-color: var(--bs-danger-bg-subtle);"} Final Exam: Friday December 11, 9:45 AM
 
